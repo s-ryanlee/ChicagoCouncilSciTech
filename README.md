@@ -10,14 +10,14 @@ This project aimed to understand how the partnered non-profit connects their dat
 UMSI Winter 2021 Student Exposition
 
 ### Slide 1
-![](assets/umsiExpoW21_C2ST.png)
+![](assets/presentation_slidedeck/umsiExpoW21_C2ST.png)
 
 The Chicago Council on Science and Technology (C2ST) blossomed over a decade ago from the success of a series of public talks on climate change and energy funded by grants from NASA.
 
 C2ST partners with local Chicago businesses and venues to host science, technology, engineering, and mathematics (STEM) themed events and programs.
 
 ### Slide 2
-![](assets/umsiExpoW21_C2ST(1).png)
+![](assets/presentation_slidedeck/umsiExpoW21_C2ST(1).png)
 
 In July 2020, C2ST partnered with Fermilab and hosted their most popular virtual program, the Neutrino 2020 Physics Slam.
 
@@ -38,7 +38,7 @@ C2ST collects data on each of these different variables from a variety of source
 How do they link these sources for a complete understanding of the popularity of their programs?
 
 #### Slide 3
-![](assets/umsiExpoW21_C2ST(5).png)
+![](assets/presentation_slidedeck/umsiExpoW21_C2ST(2).png)
 
 For the Chicago Council on Science and Technology, their STEM programs lie at the center of their data. 
 
@@ -49,7 +49,7 @@ Telling the whole story of how their audience experiences their programs require
 Connections can be difficult to make, since different sources measure different things.
 
 #### Slide 4
-![](assets/umsiExpoW21_C2ST(2).png)
+![](assets/presentation_slidedeck/umsiExpoW21_C2ST(3).png)
 
 One program might be posted on YouTube under one name, but uses a different name on Facebook.
 
@@ -66,7 +66,7 @@ With these codes, matching a program's Youtube data to its Facebook data is as s
 This way, even if the same program has a different name on Facebook and YouTube, C2ST can still connect the two.
 
 #### Slide 5
-![](assets/umsiExpoW21_C2ST(3).png)
+![](assets/presentation_slidedeck/umsiExpoW21_C2ST(4).png)
 
 Making these connections is just the start.
 
@@ -92,7 +92,7 @@ This helps C2ST with efficient data analysis, leading to data-driven decisions t
 
 
 #### Slide 6
-![](assets/umsiExpoW21_C2ST(4).png)
+![](assets/presentation_slidedeck/umsiExpoW21_C2ST(5).png)
 
 Q&A (transcript unavailable)
 
