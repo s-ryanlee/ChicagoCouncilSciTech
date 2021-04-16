@@ -51,7 +51,10 @@ The following sections review specific recommendations from Broman & Woo (2018) 
 
 ### Empty Cells and Avoid Many Things in One Cell
 > "Use common codes for missing data."
+> 
 > "Only one thing in each cell. Each cell should contain one piece of data."
+
+![Data Manipulation Flow](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/d84c81179a447d52d136cd28bcf476c0150e2826/assets/data_practices/better_formatting_flow.png)
 
 ### Data Dictionaries
 > "Have a separate file that explains what all the variables are."
