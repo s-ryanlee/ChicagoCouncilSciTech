@@ -35,7 +35,7 @@ The partnered organization?
 
 C2ST collects data on each of these different variables from a variety of sources, but there’s one problem:
 
-How do they link these sources for a complete understanding of the popularity of their programs?
+How do they link these sources for a complete understanding of audience engagement with their programs?
 
 #### Slide 3
 ![](assets/presentation_slidedeck/umsiExpoW21_C2ST(2).png)
