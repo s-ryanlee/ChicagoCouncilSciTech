@@ -11,12 +11,14 @@ UMSI Winter 2021 Student Exposition
 
 ### Slide 1
 ![](assets/umsiExpoW21_C2ST.png)
+
 The Chicago Council on Science and Technology (C2ST) blossomed over a decade ago from the success of a series of public talks on climate change and energy funded by grants from NASA.
 
 C2ST partners with local Chicago businesses and venues to host science, technology, engineering, and mathematics (STEM) themed events and programs.
 
 ### Slide 2
 ![](assets/umsiExpoW21_C2ST(1).png)
+
 In July 2020, C2ST partnered with Fermilab and hosted their most popular virtual program, the Neutrino 2020 Physics Slam.
 
 With nearly 350 livestream viewers and almost 1,500 lifetime video views, this program begs the question: **Why is this so popular?** 
@@ -37,6 +39,7 @@ How do they link these sources for a complete understanding of the popularity of
 
 #### Slide 3
 ![](assets/umsiExpoW21_C2ST(5).png)
+
 For the Chicago Council on Science and Technology, their STEM programs lie at the center of their data. 
 
 C2ST collects data from Facebook, Youtube, other websites, and sends out surveys to learn more about their audience.
@@ -47,6 +50,7 @@ Connections can be difficult to make, since different sources measure different 
 
 #### Slide 4
 ![](assets/umsiExpoW21_C2ST(2).png)
+
 One program might be posted on YouTube under one name, but uses a different name on Facebook.
 
 Facebook data requires a lot of reworking to make sure the data matches correctly with data from other sources.
@@ -63,6 +67,7 @@ This way, even if the same program has a different name on Facebook and YouTube,
 
 #### Slide 5
 ![](assets/umsiExpoW21_C2ST(3).png)
+
 Making these connections is just the start.
 
 C2ST still needs to rework the data they collect to prepare it for analysis.
@@ -88,6 +93,7 @@ This helps C2ST with efficient data analysis, leading to data-driven decisions t
 
 #### Slide 6
 ![](assets/umsiExpoW21_C2ST(4).png)
+
 Q&A (transcript unavailable)
 
 If you would like to learn more about our project, you can follow the QR code. It links to a repository that contains related information to our project.
