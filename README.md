@@ -14,7 +14,7 @@ UMSI Winter 2021 Student Exposition
 
 The Chicago Council on Science and Technology (C2ST) blossomed over a decade ago from the success of a series of public talks on climate change and energy funded by grants from NASA.
 
-C2ST partners with local Chicago businesses and venues to host science, technology, engineering, and mathematics (STEM) themed events and programs.
+C2ST partners with local Chicago businesses to host science, technology, engineering, and mathematics (STEM) themed events and programs.
 
 ### Slide 2
 ![](assets/presentation_slidedeck/umsiExpoW21_C2ST(1).png)
