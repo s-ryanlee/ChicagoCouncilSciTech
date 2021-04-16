@@ -1,0 +1,19 @@
+VARIABLE,TYPE,FORMAT,DESCRIPTION,EXAMPLE
+id,string,yyyymmdd[program],unique program identifier,20200407ppuc19
+date,date (ISO 8601),YYYY-MM-DD,standardized scheduled program date,2020-04-07
+program,string,[program title only lowercase and digits without special characters],normalized form of unique program title,perceptions and public understanding of covid 19
+formatted_title,string,[program title as it appears published],formatted unique program title exactly as it is published,Perceptions and Public Understanding of COVID-19
+program_group,string,[name of grouped series of programs],"title that describes a group of programs that fall under a broader topic, if applicable (""no group"" if not applicable)",Science from the Frontlines
+program_series,string,XX(X) (2-3 uppercase characters),overarching series the program belongs to,HW
+program_type,string,xxxxxx+ (lowercase characters),"booth, local, original, signature, speakeasy",original
+venue,string,xxxxxx+ (lowercase characters),location(s) where the program is hosted (virtual or in person),facebook live
+venue_zip,integer,00000,"zip code of in person venue, or 00000 for virtual programs",00000
+duration,duration (ISO 8601),HH:MM:SS,standardized length of program,00:41:43
+facebook_live_count,integer,Digit(s),number of viewers on facebook live event,135
+c2stTV_count,integer,Digit(s),number of viewers on youtube live channel,0
+inperson_attendance,integer,Digit(s),number of attendees for in person programs,0
+male_speakers,integer,Digit(s),number of program speakers that are male,0
+female_speakers,integer,Digit(s),number of program speakers that are female,1
+poc_informal,integer,Digit(s),number of program speakers that are POC,0
+num_speakers,integer,SUM,total number of program speakers,1
+partner,string,Xxxxxx+ or XX+  (mixed case proper nouns and abbreviations),"if specific program is sponsored, name of partner organization (""no partner"" if not applicable)",RTI
