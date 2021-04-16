@@ -92,7 +92,7 @@ This helps C2ST with efficient data analysis, leading to data-driven decisions t
 
 
 #### Slide 6
-![](assets/presentation_slidedeck/umsiExpoW21_C2ST(5).png)
+![](assets/presentation_slidedeck/umsiExpoW21_C2ST(end).png)
 
 Q&A (transcript unavailable)
 
