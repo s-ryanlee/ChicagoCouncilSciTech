@@ -21,7 +21,7 @@ Excel documents are exported from this platform, and contain two sheets: general
 
 ![Conferences I/O Generalized Summary of Responses](conferences_io_summary.PNG)
 
-![Conferences I/O Individual Responses with Descriptive Statistics](conferences_io_responses.PNG)
+![Conferences I/O Individual Responses with Descriptive Statistics](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/8ba43a02abe35211ad7d61b0967775cc453ef8c5/assets/data_practices/conferences_io_responses.PNG)
 
 ## Data Organization Best Practices
 
