@@ -6,6 +6,9 @@ Nick Capaldini, Shiyu Guo, Samantha Ryan-Lee
 
 This project aimed to understand how the partnered non-profit connects their data sources right now, and create a plan for efficient use in the future. Aspects of effective data use include optimized storage, purposeful collection, and improved analysis.
 
+## Presentation
+UMSI Winter 2021 Student Exposition
+
 ### Slide 1
 ![](assets/umsiExpoW21_C2ST.png)
 The Chicago Council on Science and Technology (C2ST) blossomed over a decade ago from the success of a series of public talks on climate change and energy funded by grants from NASA.
