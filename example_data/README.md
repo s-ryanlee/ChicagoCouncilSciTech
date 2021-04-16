@@ -58,6 +58,7 @@ The following sections review specific recommendations from Broman & Woo (2018) 
 
 ### Data Dictionaries
 > "Have a separate file that explains what all the variables are."
+> 
 > "Might contain:
 > - "Exact variable name as it appears in the data file."
 > - "A version of the variable name that might be used in data visualizations."
@@ -67,6 +68,7 @@ The following sections review specific recommendations from Broman & Woo (2018) 
 
 ### No Calcuations in Raw Data Files
 > "Primary data files should be a pristine store of data. Write-protect it, back it up, and do not touch it."
+> 
 > "If you want to do some analyses in Excel, make a copy of the file and do your calcuations and graphs in the copy."
 
 
