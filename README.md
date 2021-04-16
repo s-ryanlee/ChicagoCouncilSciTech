@@ -19,7 +19,7 @@ The Chicago Council on Science and Technology (C2ST) blossomed over a decade ago
 C2ST partners with local Chicago businesses to host science, technology, engineering, and mathematics (STEM) themed events and programs.
 
 ### Slide 2
-![](assets/presentation_slidedeck/umsiExpoW21_C2ST(1).png)
+![](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/0c8209cd6646a290249489eecd00def5fa3c60fc/assets/presentation_slidedeck/umsiExpoW21_C2ST_1.png)
 
 In July 2020, C2ST partnered with Fermilab and hosted their most popular virtual program, the Neutrino 2020 Physics Slam (Fourth bar from the top in the bar graph on the slide).
 
