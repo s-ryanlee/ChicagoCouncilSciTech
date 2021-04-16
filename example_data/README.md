@@ -2,7 +2,7 @@
 
 Prepared for C2ST by Samantha Ryan-Lee
 
-From Broman, Karl W, & Woo, Kara H. (2018). Data Organization in Spreadsheets. The American statistician, 72(1), 2–10.
+**From Broman, Karl W, & Woo, Kara H. (2018). Data Organization in Spreadsheets. The American statistician, 72(1), 2–10.**
 
 ## Background
 > "Spreadsheets are often used as a multipurpose tool for data entry, storage, analysis, and visualization. 
