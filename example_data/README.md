@@ -59,7 +59,7 @@ The following sections review specific recommendations from Broman & Woo (2018) 
 ### Data Dictionaries
 > "Have a separate file that explains what all the variables are."
 > 
-> "Might contain:
+> Might contain:
 > - "Exact variable name as it appears in the data file."
 > - "A version of the variable name that might be used in data visualizations."
 > - "A longer explanation of what the variable means."
