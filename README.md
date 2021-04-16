@@ -2,6 +2,8 @@
 
 Nick Capaldini, Shiyu Guo, Samantha Ryan-Lee
 
+UMSI Community Corps (Winter 2021)
+
 ## Description
 
 This project aimed to understand how the partnered non-profit connects their data sources right now, and create a plan for efficient use in the future. Aspects of effective data use include optimized storage, purposeful collection, and improved analysis.
