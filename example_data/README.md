@@ -14,14 +14,14 @@ C2ST uses a combination of Google Analytics, Facebook Business Page Analytic Rep
 Google Data Studio is used to automatically generate monthly reports that measure web traffic across their primary website (c2st.org) and their event registration website (eventbrite.com), as well as YouTube video views and watchtimes.
 Monthly reports and data are not currently collected and stored, as Data Studio enables users to view data and reports for any given date range.
 
-![Monthly Data Studio Report for c2st.org](assets/data_practices/data_studio_monthly_example.PNG)
+![Monthly Data Studio Report for c2st.org](data_studio_monthly_example.PNG)
 
 C2ST currently utilizes Conferences I/O to manage the surveys that collect audience feedback for each of their programs.
 Excel documents are exported from this platform, and contain two sheets: generalized summary of responses (including the relative frequencies of responses and sums for each response), and a table of each response that also includes descriptive statistics for each survey question.
 
-![Conferences I/O Generalized Summary of Responses](assets/data_practices/conferences_io_summary.PNG)
+![Conferences I/O Generalized Summary of Responses](conferences_io_summary.PNG)
 
-![Conferences I/O Individual Responses with Descriptive Statistics](assets/data_practices/conferences_io_responses.PNG)
+![Conferences I/O Individual Responses with Descriptive Statistics](conferences_io_responses.PNG)
 
 ## Data Organization Best Practices
 
@@ -47,7 +47,7 @@ The following sections review specific recommendations from Broman & Woo (2018) 
 > - "Use short but meaningful names."
 > - "Avoid using 'final'."
 
-!["Data Organization in Sheets" Table 1](assets/data_practices/data_organization_in_sheets.PNG)
+!["Data Organization in Sheets" Table 1](data_organization_in_sheets.PNG)
 
 ### Empty Cells and Avoid Many Things in One Cell
 > "Use common codes for missing data."
