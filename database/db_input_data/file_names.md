@@ -1,0 +1,5 @@
+1. cleaned and normalized program specific data: "program_tbl.csv"
+2. program series keys: "program_series_tbl.csv"
+3. program type keys: "program_type_tbl.csv"
+4. cleaned and normalized youtube data: "youtube_tbl.csv"
+5. cleaned and normalized facebook data: "facebook_tbl.csv"
