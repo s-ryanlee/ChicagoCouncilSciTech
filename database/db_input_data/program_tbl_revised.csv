@@ -1,0 +1,279 @@
+,ProgramID,month,day,year,Program Title,Program Series,Program Type Keys,Venue,Hours,Attendance (in seats),Live Stream,Male Speakers,Female Speakers,People of Color (informal)
+0,100507-PS,10,05,2007,Anniversary of Sputnik,PS,1,NU Thorne,1.5,150,0,0,0,0
+1,102907-PS,10,29,2007,Nasa Administrative Griffin,PS,1,NU Thorne,1.5,131,0,0,0,0
+2,022208-SS,02,22,2008,Stem Cell,SS,1,Co-Sponsor - All Day Event,1.5,100,0,0,0,0
+3,031208-SS,03,12,2008,Future of Science: Rosner,SS,1,Cultural Center,1.5,50,0,1,0,0
+4,092408-SS,09,24,2008,Alan Leshner,SS,1,NU Thorne,1.5,250,0,1,0,0
+5,101008-PS,10,10,2008,NASA Future Forum,PS,1,Adler Planetarium/Co - Sponsor,1.5,200,0,0,0,0
+6,101408-LS,10,14,2008,EOL,LS,1,Field Museum,1.5,35,0,1,0,0
+7,110308-CEE,11,03,2008,Archer Daniels Midland,CEE,1,NU Hughes,1.5,70,0,1,0,0
+8,112008-SS,11,20,2008,Digital Divide,SS,1,Private Club Downtown,1.5,68,0,1,0,0
+9,121008-LS,12,10,2008,Bio Med - Mary Hendrix,LS,1,NU Baldwin,1.5,100,0,0,1,0
+10,012009-CEE,01,20,2009,John Rowe,CEE,1,Palmer House,1.5,110,0,1,0,0
+11,012609-LS,01,26,2009,Bioterror ,LS,1,Harold Washington Library,1.5,170,0,0,0,0
+12,021509-PS,02,15,2009,Dark Matter/Dark Enery,PS,1,Blackstone Hotel,1.5,215,0,3,0,0
+13,031409-LS,03,14,2009,Green Sahara: Paul Sereno,LS,1,Francis Parker,1.5,600,0,1,0,0
+14,042209-LS,04,22,2009,Conservation: Debbie M,LS,1,DePaul - Lincoln Park,1.5,60,0,0,1,0
+15,052109-LS,05,21,2009,Surgical Robotics,LS,1,UIC,1.5,100,0,1,0,0
+16,060809-SS,06,08,2009,Art & Science,SS,1,"Art Institute of Chicago, Fullerton Hall",1.5,70,0,1,2,0
+17,091809-SS,09,18,2009,Science and Technology Policy: A View from Washington DC,SS,1,NW Thorne Auditorium,1.5,100,0,2,1,0
+18,101409-SS,10,14,2009,Molecular to Monumental: Rediscovering Lost Cultures from the Inside Out,SS,1,"Art Institute of Chicago, Fullerton Hall",1.5,30,0,3,3,0
+19,102209-SS,10,22,2009,The State of Science Education: A Local and National Perspective,SS,1,NW Hughes Auditorium,1.5,100,0,3,3,0
+20,102609-LS,10,26,2009,In the Family: How much do you Sacrifice to survive? ,LS,1,Gene Siskel Film Center,1.5,110,0,1,0,0
+21,102809-PS,10,28,2009,Hubble's Story,PS,1,"School of the Art Institute, SAIC Ballroom",1.5,670,0,1,0,0
+22,111209-CEE,11,12,2009,Water: The New Oil?,CEE,1,NW Hughes Auditorium,1.5,37,0,0,1,0
+23,120209-LS,12,02,2009,Stem Cells & Nanotechnology: The Tools of Regenerative Medicine,LS,1,"Palmer House, Hilton",1.5,60,0,2,0,0
+24,120609-CEE,12,06,2009,When Crocs Ate Dinosaurs,CEE,1,NW Thorne Auditorium,1.5,368,0,1,0,0
+25,021810-CEE,02,18,2010,Storing Alternative Energies,CEE,1,IIT McCloska Auditorium,1.5,215,0,3,0,0
+26,031110-SS,03,11,2010,Using Scientific Research to Fix Science Education,SS,1,The University Club of Chicago,1.5,26,0,1,0,0
+27,033110-SS,03,31,2010,Member Networking Forum: The Public Education of Science ,SS,1,NW Hughes Auditorium,1.5,50,0,0,0,0
+28,040610-LS,04,06,2010,Asian Carp Invasion: Potential Economic and Ecological Impacts in the Great Lakes,LS,1,Shedd Aquarium,1.5,150,0,5,0,0
+29,041710-SS,04,17,2010,Women in Science Symposium 2010: Building an Identity,SS,1,NW Rubloff Hall,1.5,171,0,0,0,0
+30,042110-SS,04,21,2010,NAE Grand Challenges for the 21st Century: Chicago Summit 2010,SS,1,Fairmont Hotel,1.5,500,0,0,0,0
+31,050610-CEE,05,06,2010,Mudball Earth,CEE,1,NW Hughes Auditorium,1.5,35,0,2,0,0
+32,060510-SS,06,05,2010,Leon Lederman,SS,1,Michigan Ave,1.5,200,0,1,0,0
+33,090710-LS,09,07,2010,Disaster in the Gulf,LS,1,NW Baldwin Auditorium,1.5,120,0,1,1,0
+34,092110-CEE,09,21,2010,Future Fuels,CEE,1,IIT McCloska Auditorium,1.5,70,0,3,0,0
+35,100710-CEE,10,07,2010,Climate Change in the Great Lakes Region,CEE,1,The Field Musuem,1.5,150,0,1,0,0
+36,111610-HW,11,16,2010,The Immortal Life of Henrietta Lacks,HW,1,NW Thorne Auditorium,1.5,310,0,2,1,0
+37,120910-PS,12,09,2010,Chicago's Dark Matter: WIMPs of the Underground,PS,1,NW Hughes Auditorium,1.5,150,0,3,0,0
+38,012511-PS,01,25,2011,The Moon,PS,1,IIT McCloska Auditorium,1.5,75,0,0,0,0
+39,021711-TEI,02,17,2011,Cyber Scrty,TEI,1,NW Hughes Auditorium,1.5,65,0,2,0,0
+40,022411-CEE,02,24,2011,BP Oil Spill: The Casue and Prevention,CEE,1,IIT McCloska Auditorium,1.5,60,0,1,0,0
+41,031011-LS,03,10,2011,Drug Discovery: Ingenuity or Serendipity?,LS,1,NW Hughes Auditorium,1.5,65,0,1,0,0
+42,041611-LS,04,16,2011,Panic Virus,LS,1,MSI,1.5,40,0,1,0,0
+43,042511-CEE,04,25,2011,America's Energy Challenges,CEE,1,Harold Washington Library,1.5,120,0,1,0,0
+44,042711-LS,04,27,2011,Mind of the Chimpanzee,LS,1,NW Hughes Auditorium,1.5,65,0,1,1,0
+45,052511-CEE,05,25,2011,Nuclear Proliferation,CEE,1,NW Hughes Auditorium,1.5,60,0,1,0,0
+46,080511-SS,08,05,2011,Tesla,SS,1,NW Thorne Auditorium,1.5,320,0,3,0,0
+47,091311-TEI,09,13,2011,High Speed Rail,TEI,1,Harold Washington Library,1.5,84,0,3,0,0
+48,092411-SS,09,24,2011,Ask a Nobel,SS,1,Michigan Ave,1.5,56,0,1,0,0
+49,101311-CEE,10,13,2011,Chicago's Water,CEE,1,Holiday Inn Chicago Mart Plaza,1.5,86,0,3,2,0
+50,111311-LS,11,13,2011,Gene Patenting,LS,1,NW Hughes Auditorium,1.5,68,0,3,1,0
+51,120111-HW,12,01,2011,Science and Policy of Obesity,HW,1,NW Hughes Auditorium,1.5,80,0,2,5,0
+52,011912-CEE,01,19,2012,Fracking,CEE,1,NW Hughes Auditorium,1.5,77,0,4,0,0
+53,013112-CEE,01,31,2012,Sustainable Energy,CEE,1,IIT McCloska Auditorium,1.5,81,0,1,0,0
+54,021112-SS,02,11,2012,The Believers,SS,1,Gene Siskel Film Center,1.5,97,0,0,0,0
+55,022312-TEI,02,23,2012,Nanotechnology,TEI,1,NW Hughes Auditorium,1.5,69,0,2,0,0
+56,031612-PS,03,16,2012,About Time,PS,1,NW Hughes Auditorium,1.5,53,0,1,0,0
+57,032912-CEE,03,29,2012,China's Clean Energy,CEE,1,NW Hughes Auditorium,1.5,55,0,2,0,0
+58,041912-LS,04,19,2012,Oceans' Health,LS,1,NW Hughes Auditorium,1.5,52,0,2,1,0
+59,050112-PS,05,01,2012,CERN,PS,1,Chicago Club,1.5,73,0,1,0,0
+60,051212-SS,05,12,2012,WiS 2012,SS,1,NW Hughes Auditorium,1.5,210,0,0,12,6
+61,091512-SS,09,15,2012,Ask a Scientist at Argonne,SS,1,Argonne National Laboratory,1.5,150,0,3,1,0
+62,092012-TEI,09,20,2012,America's Digital Tomorrow,TEI,1,Flashpoint Media Academy,1.5,55,0,1,0,0
+63,101012-SS,10,10,2012,CSI: Picasso,SS,1,IIT McCloska Auditorium,1.5,40,0,0,2,0
+64,101112-PS,10,11,2012,Exploring the Universe from the Bottom of the World,PS,1,"School of the Art Institute, SAIC Ballroom",1.5,95,0,1,0,0
+65,110112-SS,11,01,2012,Networking,SS,1,Peggy Notebart Nature Museum,1.5,65,0,0,0,0
+66,110812-SS,11,08,2012,"Evidence, Crime and the Law",SS,1,NW Hughes Auditorium,1.5,80,0,1,0,0
+67,120412-HW,12,04,2012,Alzheimer's and Aging,HW,2,NW Lincoln Room,2,130,0,1,3,0
+68,012513-CEE,01,25,2013,"CP-1 Past, Present and Future of Nuclear Energy",CEE,1,NW Baldwin Auditorium,1.5,86,43,3,0,0
+69,022113-LS,02,21,2013,Bioluminescence,LS,1,McDermott Will and Emery,1.5,97,43,1,0,0
+70,022313-SS,02,23,2013,Ted X Windy City Contrast,SS,1,NW Thorne Auditorium ,1.5,750,43,5,4,0
+71,022313-TEI,02,23,2013,Hackathon MonkeyBars' Spring Build,TEI,1,IIT Technology Park,1.5,150,43,0,0,0
+72,030713-SS,03,07,2013,"Spies, Satellites and Archaelogy",SS,1,Oriental Institute at University of Chicago,1.5,41,43,1,0,0
+73,031313-SS,03,13,2013,Music and the Brain,SS,1,NW Hughes Auditorium,1.5,62,43,1,1,0
+74,032113-TEI,03,21,2013,Economic Innovation,TEI,1,NW Lincoln Room,1.5,21,43,2,0,0
+75,040313-TEI,04,03,2013,Chemical Innovations,TEI,1,NW Baldwin Auditorium,1.5,28,132,1,0,0
+76,080113-PS,08,01,2013,Physics Baseball I,PS,1,US Cellular Field,1.5,150,65,0,0,0
+77,080213-PS,08,02,2013,Physics Baseball II,PS,1,US Cellular Field,1.5,142,0,1,0,0
+78,091013-TEI,09,10,2013,The Landscape of Techpark Innovation,TEI,1,1871,1.5,75,0,4,1,0
+79,092413-LS,09,24,2013,Out for the Sperm Count,LS,1,NW Baldwin Auditorium,1.5,38,46,1,0,0
+80,102413-CEE,10,24,2013,The Price of Doing Nothing ,CEE,1,NW Baldwin Auditorium,1.5,82,79,1,0,0
+81,102913-LS,10,29,2013,Science with the Pint: Our Curious Chemical World,LS,1,Hopleaf Bar,1.5,25,0,2,1,0
+82,111213-TEI,11,12,2013,Epidermal Electronics ,TEI,1,NW Baldwin Auditorium,1.5,85,130,1,0,0
+83,111313-SS,11,13,2013,FBI ,SS,1,Loyola ,1.5,165,65,1,0,0
+84,121113-TEI,12,11,2013,Nano I,TEI,1,NW Hughes Auditorium,1.5,78,120,0,0,0
+85,012214-TEI,01,22,2014,The Order of Crystallography,TEI,1,NW Hughes Auditorium,1.5,38,40,2,0,0
+86,013014-TEI,01,30,2014,Nano 2 at Argonne,TEI,1,Argonne National Laboratory,1.5,120,24,0,1,0
+87,022614-LS,02,26,2014,Matter into Medicince,LS,1,NW Hughes Auditorium,1.5,90,30,0,1,0
+88,031214-0,03,12,2014,IFSH - Is This Safe to Eat?,0,1,NW Hughes Auditorium,1.5,40,18,2,0,0
+89,040214-PS,04,02,2014,Star Trek,PS,1,UIC BSB room 250,1.5,125,48,1,0,0
+90,040314-LS,04,03,2014,Your Inner Fish,LS,1,Reva and David Logan Center for the Arts,1.5,130,0,2,0,0
+91,043014-CEE,04,30,2014,The Multiplication of Threats,CEE,2,NW Hughes Auditorium,2,90,0,3,1,0
+92,082314-HW,08,23,2014,Biomechanics,HW,1,Chicago Hilton South Loop,1.5,42,0,1,0,0
+93,090814-SS,09,08,2014,Superintelligence,SS,1,NW Hughes Auditorium,1.5,80,11,1,0,0
+94,091914-PS,09,19,2014,Cinema Slapdown: Gravity,PS,1,"Columbia College, Film Row Cinema",1.5,200,0,2,0,0
+95,092014-PS,09,20,2014,Community Cinema: Women In Space,PS,1,"Chicago Cultural Center, Cassidy Theater",1.5,71,0,0,4,0
+96,102114-SS,10,21,2014,Science + Cinema,SS,1,"Columbia College, Film Row Cinema",1.5,155,0,5,3,0
+97,102914-SS,10,29,2014,Future of Work,SS,2,NW Hughes Auditorium,2,115,0,4,0,0
+98,111214-SS,11,12,2014,Decoding The New Science and Math Standards I,SS,1,Skokie Public Library,1.5,50,2,0,0,0
+99,111714-CEE,11,17,2014,Nature's Fortune,CEE,1,Blackstone Hotel,1.5,90,0,0,0,0
+100,112014-SS,11,20,2014,Decoding The New Science and Math Standards II,SS,1,NW Hughes Auditorium,1.5,32,0,3,2,0
+101,120314-SS,12,03,2014,Women in STEM: Connect,SS,1,SAIC Ballroom,1.5,180,0,0,6,2
+102,120914-LS,12,09,2014,C2ST Speakeasy: The sex life of reptiles,LS,3,Geek Bar Chicago Beta,1.5,27,0,0,1,1
+103,020315-LS,02,03,2015,C2ST Speakeasy: Thinking Outside the WEIRD: Variability in Human Biology,LS,3,Geek Bar Chicago Beta,1.5,26,0,1,0,0
+104,020315-LS,02,03,2015,C2ST Speakeasy: Hot or Not? The biology of human attraction,LS,3,Geek Bar Chicago Beta,1.5,24,0,1,0,0
+105,020515-HW,02,05,2015,How to be Healthy When You're Older,HW,1,NW Hughes Auditorium,1.5,72,0,2,1,0
+106,021115-CEE,02,11,2015,Should America Launch a Major Push into Solar Energy?,CEE,1,IIT Perlstein Hall Auditorium,1.5,180,0,1,0,0
+107,021215-CEE,02,12,2015,Water: Chicago in the 21st Century and Beyond,CEE,1,NW Hughes Auditorium,1.5,130,0,2,1,0
+108,022115-SS,02,21,2015,American Denial,SS,1,"Chicago Cultural Center, Cassidy Theater",1.5,164,0,0,1,0
+109,030315-PS,03,03,2015,C2ST Speakeasy: Vandals of the Void: Damaging Meteors from Chelyabinsk to Chicago,PS,3,Geek Bar Chicago Beta,1.5,43,0,1,0,0
+110,031215-SS,03,12,2015,AICHE Engineering Career Day,SS,4,"Hermann Hall, IIT",1.5,400,0,0,0,0
+111,032515-SS,03,25,2015,Music - There's a Science to That,SS,1,The Ballroom at the School of the Art Institute of Chicago,1.5,85,34,3,0,0
+112,040715-HW,04,07,2015,C2ST Speakeasy: Biomedical Imaging and Personalized Medicine,HW,3,Geek Bar Chicago Beta,1.5,56,0,1,0,0
+113,042815-HW,04,28,2015,The Threat of Superbugs,HW,1,"Baldwin Auditorium, Northwestern University",1.5,54,120,4,1,0
+114,050415-LS,05,04,2015,"C2ST Speakeasy: Plants: How we Use 'Em, and How We Don't Lose 'Em",LS,3,Geek Bar Chicago Beta,1.5,48,0,0,1,0
+115,051315-HW,05,13,2015,When Playing Sports is Bad For Your Brain,HW,1,"Hughes Auditorium, Northwestern University",1.5,34,0,1,2,0
+116,060215-LS,06,02,2015,C2ST Speakeasy: Genes and Germs: The Battle that Defines Us,LS,3,Geek Bar Chicago Beta,1.5,41,0,1,0,0
+117,070715-HW,07,07,2015,C2ST Speakeasy: The Neuroscience of Addiction,HW,3,Geek Bar Chicago Beta,1.5,57,0,0,1,0
+118,072115-TEI,07,21,2015,C2ST Speakeasy: Bio-Inspired Climbing Robots,TEI,3,Geek Bar Chicago Beta,1.5,51,0,1,0,0
+119,080415-CEE,08,04,2015,C2ST Speakeasy: The Ecology of Industry,CEE,3,Geek Bar Chicago Beta,1.5,49,0,0,1,1
+120,081815-HW,08,18,2015,"C2ST Speakeasy: Diet, Gut Bacteria, and Metabolic Disease: Strategies to Promote Healthy Microbial Communities",HW,3,Geek Bar Chicago Beta,1.5,68,0,0,1,1
+121,090115-LS,09,01,2015,C2ST Speakeasy: Why Being Poor Can Also Make You Sick,LS,3,Geek Bar Chicago Beta,1.5,28,0,0,1,0
+122,091515-SS,09,15,2015,"C2ST Speakeasy: Sex, Science, and Jokes",SS,3,Geek Bar Chicago Beta,1.5,52,0,1,0,1
+123,100115-LS,10,01,2015,What is the BRAIN Initiative?,LS,2,"Hughes Auditorium, Northwestern University",2,163,49,4,0,1
+124,100615-CEE,10,06,2015,C2ST Speakeasy: Dirty Secrets: Managing Soil Systems for a Sustainable Future,CEE,3,Geek Bar Chicago Beta,1.5,30,0,0,1,1
+125,100715-LS,10,07,2015,Evolution at the South Pole,LS,1,Revolution Brewery,1.5,127,0,1,1,0
+126,102015-TEI,10,20,2015,C2ST Speakeasy: A Diamond Age of Microelectronics,TEI,3,Geek Bar Chicago Beta,1.5,34,0,1,0,1
+127,102115-SS,10,21,2015,Failure: Why Science is so Successful,SS,1,Chicago Tech Academy High School,1.5,57,4,1,0,0
+128,110315-TEI,11,03,2015,C2ST Speakeasy: What's the deal with wearable technology?,TEI,3,Geek Bar Chicago Beta,1.5,42,0,1,0,1
+129,111215-SS,11,12,2015,A Picture is Worth 1000 Words - Teaching Science with Comics,SS,1,"Baldwin Auditorium, Northwestern University",1.5,57,0,0,1,0
+130,111715-TEI,11,17,2015,C2ST Speakeasy: Robot Revolution,TEI,3,Geek Bar Chicago Beta,1.5,54,0,0,2,0
+131,120115-HW,12,01,2015,C2ST Speakeasy: Feeling Down? Maybe it's the Season.,HW,3,Geek Bar Chicago Beta,1.5,21,0,0,1,1
+132,120115-SS,12,01,2015,2015 Women in STEM: Connect,SS,1,SAIC Ballroom,1.5,125,12,0,4,2
+133,121515-TEI,12,15,2015,C2ST Speakeasy: Machine Learning and Medical Imaging,TEI,3,Geek Bar Chicago Beta,1.5,38,0,1,0,0
+134,010516-CEE,01,05,2016,C2ST Speakeasy: Getting More Electricity out of Sunlight,CEE,3,Geek Bar Chicago Beta,1.5,51,0,1,0,0
+135,011916-PS,01,19,2016,C2ST Speakeasy: Playback From Pluto,PS,3,Geek Bar Chicago Beta,1.5,34,0,1,0,0
+136,020216-LS,02,02,2016,C2ST Speakeasy: Saving Giants of the Amazon,LS,3,Geek Bar Chicago Beta,1.5,20,0,0,1,1
+137,021616-PS,02,16,2016,C2ST Speakeasy: The Dark Path to our Being,PS,3,Geek Bar Chicago Beta,1.5,40,0,1,0,1
+138,022516-HW,02,25,2016,How we Treat Cancer,HW,1,Matter,1.5,88,14,2,1,0
+139,030216-CEE,03,02,2016,The Future of Solar Energy,CEE,1,IIT,1.5,197,0,1,0,0
+140,030916-CEE,03,09,2016,Climate Disruption: What we can do now,CEE,1,1871,1.5,70,9,1,0,0
+141,031516-LS,03,15,2016,C2ST Speakeasy: Cannabis and the Developing Brain,LS,3,Geek Bar Chicago Beta,1.5,30,0,1,0,1
+142,032316-HW,03,23,2016,The Science of Addiction,HW,1,DePaul - Lincoln Park,1.5,105,45,2,2,0
+143,033116-SS,03,31,2016,Roadmap for Inclusion,SS,1,"Gleacher Center, Uchicago",1.5,95,0,0,1,0
+144,040916-SS,04,09,2016,The Myth of Brain Sex,SS,1,UIC Moss Auditorium,1.5,65,0,1,1,1
+145,060616-TEI,06,06,2016,C2ST Speakeasy: Urban Farming and Closed-Loop Production,TEI,3,Pint,1.5,50,0,1,0,0
+146,061116-SS,06,11,2016,What's Going on at The Plant?,SS,1,Plant Chicago,1.5,52,0,2,1,1
+147,070516-HW,07,05,2016,C2ST Speakeasy: Summer of Zika,HW,3,Pint,1.5,35,0,1,0,0
+148,080216-HW,08,02,2016,C2ST Speakeasy: The hype versus the science of meditation and mindfulness,HW,3,Pint,1.5,35,0,0,1,0
+149,081716-LS,08,17,2016,The Secret Life of Female Chimpanzees,LS,1,Harold Washington Library,1.5,91,20,0,1,0
+150,090616-HW,09,06,2016,C2ST Speakeasy: Inherited effects of teenage binge drinking,HW,3,Pint,1.5,10,0,0,1,0
+151,092816-CEE,09,28,2016,The Heart of Marine Biodiversity: Saving the Verde Island Passage,CEE,2,Shedd Aquarium,2,130,106,2,0,1
+152,100416-SS,10,04,2016,C2ST Speakeasy: Metabolism of a Marathon,SS,3,Pint,1.5,22,0,0,1,0
+153,100616-SS,10,06,2016,Hacking the Brain to Find Ourselves,SS,1,Loyola University Center for Translational Research & Education (Maywood Location),1.5,44,0,1,0,0
+154,102716-HW,10,27,2016,How the Indoor Microbiome Influence Health,HW,1,British International School (Lincoln Park Location),1.5,63,17,1,0,0
+155,111716-CEE,11,17,2016,Climate Change and Energy Needs: Finding a Path to Sustainability,CEE,2,IIT Kent College of Law,2,180,27,0,1,0
+156,120616-PS,12,06,2016,"C2ST Speakeasy: Navigation Across the Oceans, Earth, and Space",PS,3,Pint,1.5,52,0,1,0,0
+157,011017-HW,01,10,2017,C2ST Speakeasy: Why in the World Haven’t We Cured Alzheimer’s by Now?,HW,3,Radler,1.5,62,0,0,1,0
+158,012817-TEI,01,28,2017,Devil Hack 1.00,TEI,4,Warren Township High School,26,117,0,4,2,1
+159,020617-PS,02,06,2017,The Physics of Baseball: What Newton said to the Billygoat,PS,1,Gwendolyn Brooks College Prep,1.5,73,0,1,0,0
+160,020717-SS,02,07,2017,C2ST Speakeasy: Sexy Stems: Aphrodisiac Plants that Cause Love to Bloom,SS,3,Radler,1.5,61,0,0,1,0
+161,020917-PS,02,09,2017,From Quarks to the Cosmos,PS,1,Hyatt Regency Ballroom,1.5,162,0,1,0,0
+162,030717-LS,03,07,2017,Speakeasy: Tales from the Sea: How do baby fish and other marine species find forever homes?,LS,3,Pint,1.5,51,0,1,0,0
+163,032217-CEE,03,22,2017,Recent Advances in CO2 Storage Science and Technology,CEE,1,"Perlstein Hall Auditorium, IIT",1.5,133,7,0,1,0
+164,033017-PS,03,30,2017,Baseball: It’s Not Nuclear Physics—Or Is It?,PS,1,Harold Washington Library,1.5,75,28,1,0,0
+165,040617-SS,04,06,2017,The Usefulness of Useless Knowledge,SS,1,The Arts Club Chicago,1.5,55,66,1,0,0
+166,041117-SS,04,11,2017,Making Things Meaningful in the Ice Age,SS,1,"Conaway Center, Columbia College",1.5,109,43,0,1,0
+167,042017-CEE,04,20,2017,Extreme Science: The U.S. Antarctic Program,CEE,1,MTCC,1.5,70,15,0,1,0
+168,042217-SS,04,22,2017,March for Science Chicago Booth,SS,4,Museum Campus,3.5,615,0,1,3,1
+169,042317-SS,04,23,2017,Party for the Planet Booth,SS,4,Brookfield Zoo,6,220,0,0,4,0
+170,042417-SS,04,24,2017,Nothing Academic: Science-themed Improv,SS,1,Comedy Clubhouse,2,130,0,12,6,1
+171,050217-LS,05,02,2017,How the new genome-editing technologies in agriculture will change our everyday lives,LS,1,Alliance Francais,1.5,49,0,0,1,0
+172,050417-PS,05,04,2017,"Black holes, supernovae, Big Bang: why are gravitational waves a revolutionary discovery?",PS,1,Alliance Francais,1.5,67,0,1,0,0
+173,051017-LS,05,10,2017,Urban Nature: Behind the Scenes,LS,1,"Arts & Cinema (Room 310), Columbia College",1.5,47,0,3,0,0
+174,061217-SS,06,12,2017,Lawrence Krauss: The Greatest Story Ever Told—So Far,SS,1,Pritzker Military Museum & Library,1.5,99,100,1,0,0
+175,062017-HW,06,20,2017,"Dietary Supplements: Stories of Regulation, Safety, and Evidence",HW,3,The Radler,1.5,40,0,0,1,0
+176,071117-LS,07,11,2017,Antibiotic Hunters: Discovering Drugs in the Ocean,LS,3,The Radler,1.5,60,0,1,0,0
+177,082517-SS,08,25,2017,Curators: Behind the Scenes of Natural History Museums with Lance Grande,SS,1,Chicago Maritime Museum,2,62,27,1,0,0
+178,090617-PS,09,06,2017,Fermilab and the New Frontiers of Physics,PS,1,Harold Washington Library,2,107,169,3,1,1
+179,091217-TEI,09,12,2017,Chicago's Potemkin Village,TEI,3,The Radler,1.5,40,0,1,0,0
+180,092317-SS,09,23,2017,Fermilab's Open House Booth,SS,4,Fermilab,8,220,0,3,3,2
+181,092617-HW,09,26,2017,New Developments in Mental Health,HW,1,Northwestern Baldwin Auditorium,2,60,57,1,3,1
+182,101017-TEI,10,10,2017,Technology and Politics,TEI,3,The Radler,1.5,47,0,0,1,0
+183,101217-LS,10,12,2017,Alesi: The life and death of an ancestor,LS,1,Walter Payton High School,1.5,71,58,1,0,1
+184,111317-SS,11,13,2017,Unconscious Bias,SS,2,1871,1.5,139,104,1,3,1
+185,111517-SS,11,15,2017,Math-It's as easy as Pi!,SS,2,Roosevelt U - Gantz Hall,1.5,97,74,0,1,1
+186,121217-PS,12,12,2017,In Awe of the Northern Lights,PS,3,The Radler,1.5,124,0,1,0,1
+187,121417-CEE,12,14,2017,Strengthening Our Energy Security Future,CEE,1,Alliance Francais,1.5,58,0,3,0,0
+188,011618-LS,01,16,2018,Genes and Geography,LS,3,Pint,1.5,75,0,1,0,0
+189,020618-SS,02,06,2018,Our Chemical Romance,SS,3,Pint,1.5,48,0,0,1,0
+190,022018-SS,02,20,2018,Investing in Science and Education: An Act of Faith,SS,2,"Founders Room, Field Museum",1,70,0,1,0,0
+191,031518-SS,03,15,2018,NU Women in STEM and Academia Booth,SS,4,Prentice Women's Hospital,2,25,0,0,1,0
+192,031918-HW,03,19,2018,Personalized Medicine,HW,2,Northwestern Baldwin Auditorium,1.5,61,88,2,2,0
+193,032318-SS,03,23,2018,Science Riot - 1st Show,SS,1,"Rice Hall, Field Museum",2,115,0,9,3,4
+194,040418-CEE,04,04,2018,Challenges and Opportunities in an Emerging Solar Economy,CEE,1,IIT Perlstein Hall,1.5,115,0,1,0,1
+195,040418-SS,04,04,2018,Science is a Verb. We Must Get Sciencing. The World Requires It!,SS,1,Fortnightly,2,43,0,0,1,0
+196,040518-SS,04,05,2018,Women in STEM Education and Career Fair at OKRFHS,SS,4,Oak Park and River Forrest High School,1.5,65,0,0,3,0
+197,041218-CEE,04,12,2018,The Future of Trees: Hope in a Changing Climate,CEE,1,Morton Ginko Hall,2,205,216,3,3,0
+198,041418-SS,04,14,2018,Speak up for Science,SS,4,Field Museum,3,50,0,1,2,1
+199,042018-SS,04,20,2018,Science Riot - 2nd Show,SS,1,Theater on the Lake,2,158,0,9,3,4
+200,042218-SS,04,22,2018,Party for the Planet Booth,SS,4,Brookfield Zoo,6,246,0,1,3,0
+201,050718-TEI,05,07,2018,Immersion in the Nanoworld,TEI,1,Alliance Francais,1.5,49,0,0,1,0
+202,051018-CEE,05,10,2018,Climate Change and Viral Emergence in Humans and Domestic Animals,CEE,1,Alliance Francais,1.5,55,0,1,0,0
+203,052318-LS,05,23,2018,Origins of the Genus Homo,LS,1,Harold Washington Library,1.5,184,0,1,0,0
+204,060718-SS,06,07,2018,Columbia Explorers Academy Career Day,SS,4,Columbia Explorers Academy,2,53,0,0,1,0
+205,061218-SS,06,12,2018,Mission to Mars: Team Composition,SS,3,Galway Arms,1.5,65,0,0,1,0
+206,061418-CEE,06,14,2018,Extreme Storms,CEE,1,Harold Washington Library,2,55,261,2,2,1
+207,061618-SS,06,16,2018,Science Friday Recording Booth,SS,4,Harris Theater,1.5,60,0,1,1,0
+208,081518-HW,08,15,2018,Sleep and Clocks: Windows to Health,HW,1,Horner Park,1.5,41,0,0,1,1
+209,092518-HW,09,25,2018,Head Banging: How Music and Concussions Affect Brain Health,HW,1,South Shore Cultural Center,1.5,19,69,0,1,0
+210,092718-PS,09,27,2018,Science in Film: Lessons from the Movie Armageddon,PS,1,"Film Row Cinema, Columbia",2,52,77,2,1,0
+211,100218-SS,10,02,2018,Conversations for Science,SS,3,Galway Arms,1.5,6,0,2,0,1
+212,101018-TEI,10,10,2018,"Snapchat, Symphonies, and Synapses",TEI,3,Motor Row Brewing,1.5,42,0,0,1,0
+213,110818-LS,11,08,2018,What Makes Us Human?,LS,1,Lincoln Park Zoo,1.5,135,0,1,0,1
+214,110918-LS,11,09,2018,Rise of the Warrior Apes,LS,1,"Film Row Cinema, Columbia",2,73,0,1,0,1
+215,111218-TEI,11,12,2018,Darsh Wasan Lecture Booth,TEI,4,IIT Hermann Hall,1,28,0,0,1,0
+216,112818-CEE,11,28,2018,Indigenous Science,CEE,1,Chicago Cultural Center - Preston Bradley Hall,2,239,0,2,1,3
+217,120518-CEE,12,05,2018,Food Evolution,CEE,1,"Film Row Cinema, Columbia",2.5,95,33,2,3,0
+218,121218-HW,12,12,2018,"Bionics, Robotics, and the Future of Rehabilitation",HW,2,Shirley Ryan AbilityLab,2.5,77,33,2,2,2
+219,020619-TEI,02,06,2019,Array of Things,TEI,1,Harold Washington Library,2,67,77,1,1,0
+220,022019-HW,02,20,2019,"Mindfulness, Meditation, and Yoga",HW,1,Jefferson Park,2,29,0,0,1,0
+221,022719-CEE,02,27,2019,WISER 2019 Lecture: New Directions in Strategic Energy Analysis,CEE,1,"Perlstein Hall, IIT",1.5,96,0,1,0,0
+222,022819-LS,02,28,2019,"Resilience, Empathy, Plasticity: Women in Neuroscience",LS,1,"McGowan South, DePaul ",2,141,124,0,4,0
+223,031219-LS,03,12,2019,Chicago Brain Buddies,LS,1,Theater Wit,1.5,27,0,1,2,1
+224,032119-SS,03,21,2019,How Sexual Harassment Culture Infects Academia,SS,1,"Hughes Auditorium, NU",2,35,49,0,3,2
+225,033119-SS,03,31,2019,Symphony for our World Booth,SS,4,Auditorium Theater,1,25,0,0,1,0
+226,040319-PS,04,03,2019,The Science of Star Wars,PS,1,Harold Washington Library,1.5,160,198,1,0,0
+227,040919-PS,04,09,2019,The LHC: From dark matter particles to extra dimensions,PS,1,Alliance Francais,1.5,67,0,1,0,0
+228,041719-CEE,04,17,2019,How Trees Can Help the World: Re-treeing Communities and Making the World a Cooler Place to Live,CEE,1,Morton Ginko Hall,2,175,0,4,2,0
+229,042619-SS,04,26,2019,Speaking at Depaul Neuro Class,SS,4,"McGowan North, DePaul ",1,25,0,0,1,0
+230,050919-HW,05,09,2019,Food for Thought,HW,1,Ping Tom Memorial Park,1.5,40,0,0,1,0
+231,051119-SS,05,11,2019,SPOT Workshop,SS,4,"Pancoe Hall, Northwestern",1,11,0,1,4,0
+232,051619-LS,05,16,2019,The Long and Short of Proteomics,LS,3,Emporium Wicker Park,1.5,33,0,2,0,0
+233,053019-LS,05,30,2019,Lurie Prize Winner Lijian James Chen,LS,2,"Prentice Women's Hospital, Room L",2,78,52,2,0,1
+234,061119-CEE,06,11,2019,Does Recycling Still Matter?,CEE,1,Harold Washington Library,1.5,140,187,2,2,1
+235,072319-LS,07,23,2019,Wild City: The Animals That Live Among Us,LS,1,"UIC, Illinois B",1,81,0,1,0,0
+236,082219-SS,08,22,2019,NUPA/CGSA Careers Symposium,SS,4,"Potocsnak Atrium, Northwestern",2,30,0,0,1,0
+237,082719-HW,08,27,2019,Tea or Coffee: It Might Depend On Your Genes,HW,3,Osmium Coffee Bar,1.5,54,0,0,1,0
+238,091119-LS,09,11,2019,Urban Nature Walk,LS,5,Northerly Island Park,1.5,45,0,0,1,0
+239,091319-SS,09,13,2019,UIC PDA Career Development Symposium,SS,4,"Student Center East, UIC",1,22,0,1,2,0
+240,092519-PS,09,25,2019,Leon Lederman Memorial,PS,2,Harold Washington Library,2,152,87,8,8,7
+241,092619-LS,09,26,2019,Talking Trees - Morton,LS,1,Morton Thornhill,1.5,220,0,2,0,0
+242,100519-HW,10,05,2019,Filtering the Facts of Kidney Health,HW,5,Washington Fieldhouse,1,14,0,0,1,1
+243,101619-LS,10,16,2019,The Earliest Child,LS,1,Harold Washington Library,1.5,124,346,1,0,1
+244,101719-SS,10,17,2019,How to Communicate Facts in the Era of Fake News,SS,4,Metis,2,40,0,1,3,0
+245,110119-PS,11,01,2019,A Universe of Surprises,PS,3,Dark Matter Lab,1.5,27,0,1,1,0
+246,111319-TEI,11,13,2019,CSI TECH: The Technology of Crime-Solving,TEI,1,mHub,1.5,52,0,3,1,1
+247,112119-SS,11,21,2019,The Art of Logic,SS,1,Harold Washington Library,1.5,129,100,0,1,1
+248,120619-SS,12,06,2019,The Case of Including Every(Body),SS,1,1871,2,19,52,0,3,0
+249,121019-HW,12,10,2019,How Psychotherapy Can Help Everyone,HW,1,Harrison Park Fieldhouse,1.5,12,0,0,1,0
+250,012720-SS,01,27,2020,We Believe in Dinosaurs,SS,1,Gene Siskel Film Center,2.5,149,0,1,3,0
+251,012920-SS,01,29,2020,UIC Leadership and Service Booth,SS,4,UIC Student Center East,2.5,33,0,0,2,1
+252,012920-CEE,01,29,2020,Cliff Dwellers - Human Environment Interaction in Amazonia,CEE,1,Cliff Dwellers,1.5,70,0,0,1,0
+253,022220-SS,02,22,2020,Many Pathways,SS,5,Dvorak Park,3.5,33,0,3,3,6
+254,022920-SS,02,29,2020,C2E2 Science of Star Wars,SS,1,C2E2,1,212,0,2,1,0
+255,031020-SS,03,10,2020,CWISI,SS,4,Northwestern Prentice Hospital,0,52,0,0,2,1
+256,040720-HW,04,07,2020,SFTF:Perceptions and Public Understanding of COVID-19,HW,1,Facebook Live,1,0,135,0,1,0
+257,040920-HW,04,09,2020,SFTF:Fighting COVID-19!,HW,1,Facebook Live,1,0,157,0,1,0
+258,041620-TEI,04,16,2020,SFTF:3D Printing PPE,TEI,1,Facebook Live,1,0,176,1,0,0
+259,042820-HW,04,28,2020,SFTF:Sir Run Run Shaw Hospital Program,HW,1,Website (recorded - embedded link),1,0,22,5,5,10
+260,050720-SS,05,07,2020,SFTF:Racial Disparity in COVID-19 Panel,SS,1,Facebook Live,1,0,199,1,3,4
+261,052020-SS,05,20,2020,SFTF:Gender Disparity in COVID-19 Cases,SS,1,Facebook Live,1,0,68,0,1,0
+262,052620-SS,05,26,2020,SFTF:Sanitizer and Spirits ,SS,1,Facebook Live & YouTube,1,0,187,0,1,0
+263,060220-LS,06,02,2020,SFTF: Virus Entry,LS,1,Facebook Live & YouTube,1,0,169,0,1,0
+264,061720-PS,06,17,2020,"Art, Science, and the Elegant Universe",PS,1,Facebook Live & Youtube ,1,0,301,0,2,0
+265,062520-TEI,06,25,2020,Forensic Genomic Technologies: New Frontiers Bring New Considerations,TEI,1,Facebook Live & Youtube ,1,0,171,0,1,0
+266,063020-SS,06,30,2020,An Evening into the Multiverse,SS,1,Facebook Live & YouTube,1,0,198,1,1,2
+267,070220-PS,07,02,2020,Neutrino 2020 Physics Slam,PS,1,Facebook Live & YouTube,1,0,341,2,2,1
+268,070920-TEI,07,09,2020,SFTF: Engineering at the Service of Humanity,TEI,1,Facebook Live & YouTube,1,0,109,1,0,1
+269,072120-TEI,07,21,2020,3D Printing in Action: An Introduction to Digital Fabrication,TEI,1,Facebook Live & YouTube,1,0,117,0,1,0
+270,080520-HW,08,05,2020,Mindfully Coping: Strategies for Children and Families During a Pandemic,HW,1,Facebook Live & YouTube,1,0,105,1,0,1
+271,082020-LS,08,20,2020,The Study of Ancient DNA: Knowledge from Unexpected Sources,LS,1,Facebook Live & YouTube,1,0,114,1,1,1
+272,082720-LS,08,27,2020,Lessons in Biology Taught by a Pathogen,LS,1,Facebook Live & YouTube,1,0,107,1,0,0
+273,090120-SS,09,01,2020,UIC Involvement Fair,SS,1,Booth,0,0,24,0,2,0
+274,092420-LS,09,24,2020,The Power of Genomics: Optimzing Health Outcomes & Wildlife Conservation,LS,1,Facebook Live & YouTube,1,0,88,1,0,0
+275,101220-HW,10,12,2020,Deploying SHIELD: To Illinois and Beyond,HW,1,Facebook Live & YouTube,1,0,125,2,0,0
+276,050508-CEE,05,05,2008,Energy Colloquium (Day 1),CEE,1,Exelon/Co-Sponsor,1.5,60,0,0,0,0
+277,050708-CEE,05,07,2008,Energy Colloquium (Day 2),CEE,1,Exelon/Co-Sponsor,1.5,60,0,0,0,0
