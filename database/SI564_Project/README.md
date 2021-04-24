@@ -40,6 +40,7 @@ What to turn in:
 
 Database created using DataGrip
 
-[SQL Queries](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/465c27c00481790b86ca5b4fdc4ed752f15cff0c/database/SI564_Project/proj_query_notes.pdf)
+[SQL Query Notes](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/465c27c00481790b86ca5b4fdc4ed752f15cff0c/database/SI564_Project/proj_query_notes.pdf)
 
 # Write Up
+[Project Submission Document](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/f95a439789fdc00a9de95d7926a52e68bac73d9e/database/SI564_Project/project_email_writeup.pdf)
