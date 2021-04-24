@@ -1,0 +1,280 @@
+in_programs_tbl,video_code,Video,video_title,month,day,year,Views,Watch time (hours),Subscribers,Impressions,Impressions click-through rate (%)
+N,09132014_U,7ZStUcT47Wo,Biomechanics of Running: The Science of Movement - Steven McCaw,9,13,2014,8893,1859.6632,62,87317,4.49
+N,08132012_U,FjJCJY8TfIU,Women in Science Symposium 2012 Closing Keynote with Dr. Hafidi 05/12/12,8,13,2012,4583,539.1637,45,35696,7.95
+Y,03232016_HW,bl2iGoOzB4o,The Science of Addiction,3,24,2016,3845,560.1713,13,6612,4.66
+N,10122016_U,K6fK_LIcDGE,The Heart of Marine Biodiversity  Saving the Verde Island Passage Highlights,10,12,2016,3749,104.3245,10,23115,8.35
+Y,09062017_PS,xt2wDYDLsx8,Fermilab and the New Frontiers of Physics,9,12,2017,3478,1583.7686,21,41121,3.9
+Y,09282016_CEE,OzWgQOohnPQ,The Heart of Marine Biodiversity: Saving the Verde Island Passage,9,29,2016,3335,220.0881,8,24319,8.13
+N,08182016_U,br8bKAZQf4s,The Secret Lives of Female Chimpanzees,8,18,2016,2968,269.9709,6,27661,4.76
+N,06182018_U,zq6kgV1eoj4,The Origins of Genus Homo,6,18,2018,2849,915.6934,15,32987,3.51
+N,07022020_U,GMjPSgtbYcM,Neutrino 2020 Physics Slam!,7,2,2020,1407,295.9676,17,20255,2.05
+N,11072013_U,jVXIX9jc3dw,"The Physics of Baseball: ""You Can Observe A Lot By Watching"" - Alan Nathan",11,7,2013,970,220.5927,3,5306,3.83
+Y,04112017_SS,LOnT_KfaIe0,Making Things Meaningful in the Ice Age,4,12,2017,967,232.974,0,8320,3.28
+N,10042018_U,remxHrVqlIE,Head Banging: How Music and Concussions Impact Brain Health; An Interview with Dr. Nina  Kraus,10,4,2018,856,20.2479,0,8755,7.29
+N,04152016_U,DU0QI2kspUI,The Myth of Brain Sex with Dr. Lise Eliot and Aaron Freeman,4,15,2016,769,40.5658,1,23766,0.77
+N,12062015_U,xGhAFt6Rnno,"Interview with MK Czerwiec, AKA the Comic Nurse",12,6,2015,655,19.9356,0,1767,2.32
+N,02212018_U,kd5qIL3NiXw,Science is for Everyone,2,21,2018,628,8.7798,0,1316,2.96
+N,06272017_U,n7Zo80_zIKI,Lawrence Krauss: The Greatest Story Ever Told-So Far,6,27,2017,611,147.6286,4,8189,1.86
+Y,10212015_SS,icgYtMYc_l0,Failure: Why Science is so Successful,12,3,2015,601,90.7597,3,2679,5.11
+N,10192015_U,gsryRHogZak,What is the BRAIN Initiative? Highlights,10,19,2015,598,19.7404,6,3493,5.67
+Y,04202017_CEE,x2LYZul94wQ,Extreme Science: The U.S. Antarctic Program,4,21,2017,595,61.4899,2,6725,3.45
+N,10132017_U,31PpqzuUQRA,"Alesi: The Life, Death, and Discovery of an Ancestor",10,13,2017,589,117.1251,3,4674,3.81
+N,01102020_U,zwNwtWWvsJw,Program: The Art of Logic with Dr. Eugenia Cheng,1,10,2020,515,72.6302,2,3390,3.36
+N,09182017_U,cNOWIBUlrHM,"Curators: Behind The Scenes of Natural History Museums, an interview with Lance Grande",9,18,2017,506,11.9962,2,2997,6.24
+N,01312012_U,n0jaEmeQujQ,Science of Obesity 12/1/11,1,31,2012,494,30.4939,1,1725,3.07
+N,04192017_U,f-iEGz-81Z4,The Usefulness of Useless Knowledge Highlights With Robbert Dijkgraaf,4,19,2017,451,11.8598,1,5212,3.68
+N,09132014_U,wSAW19RkjYY,Biomechanics of Running: The Science of Movement Highlight - Steven McCaw,9,13,2014,443,4.4225,0,2447,2.66
+N,01312018_U,IXadTUdyWTk,Genes and Geography: Understanding Human Genetic Diversity,1,31,2018,396,65.7358,0,5659,2.62
+N,03112013_U,831veYw5tcI,"Bioluminescence: Living Lights, Lights for Living - J. Woodland Hastings, Paul C. Mangelsdorf",3,11,2013,343,53.1075,3,5943,1.58
+N,10272018_U,1bW8hFWs7vw,"Science Riot - Matthew Spenko, PhD",10,27,2018,342,20.0514,0,2655,4.03
+N,11122013_U,Y9mEXrmOdwg,The Price of Doing Nothing: The World's Energy Future - George Crabtree,11,12,2013,327,72.0276,1,5021,2.57
+N,03312017_U,kBVOh3H4XQU,The Physics of Baseball,3,31,2017,326,52.9144,0,1719,2.91
+N,03112016_U,aIth9Jux9pg,The Future of Solar Energy with Robert Armstrong 03-02-2016,3,11,2016,304,51.493,0,5206,1.79
+Y,08202020_LS,3CcSImls4Q8,The Study of Ancient DNA: Knowledge from Unexpected Sources,8,20,2020,300,61.9746,8,5619,1.42
+N,11112015_U,C-bVBEQJNs4,FAILURE: Why Science is so Successful - Highlights,11,11,2015,293,8.672,2,1073,4.1
+N,01232019_U,MLcuPrwSajY,Indigenous Science: Ethnobotany and Conservation Practices,1,23,2019,288,30.1134,2,4874,1.56
+N,05022012_U,kb_mGiGvZ1o,Tesla Lecture,5,2,2012,279,8.2026,1,2421,2.15
+N,11072013_U,KH34H5IcUHo,"C2ST: Stem Cells & Nanotechnology :The tools of Regenerative methods- Kessler, Sam Stupp",11,7,2013,257,25.3867,0,3464,2.11
+N,05092012_U,IEZxVsYpmEA,About Time: Cosmology and Culture at the Twilight of the Big Bang  3/16/12  - Adam Frank,5,9,2012,255,50.1621,0,1377,2.69
+N,07012020_U,958M_ihtk-k,An Evening Inside the Multiverse,7,1,2020,252,50.238,5,4389,1.71
+Y,06252020_TEI,C1NfFO3nWs8,Forensic Genomic Technologies: New Frontiers Bring New Considerations,6,26,2020,243,37.4757,4,2735,1.94
+N,09162014_U,WWpdZ5-5VZE,"Superintelligence: Paths, Dangers, and Strategies Highlight - Nick Bostrom",9,16,2014,235,9.1188,0,3662,1.99
+N,10272018_U,bu92a659sZU,Science Riot -Stephanie Timpone,10,27,2018,231,13.4046,0,1596,5.33
+N,10252019_U,SKMaKxb2b70,Interview: The Earliest Child The Significance of “Selam”,10,25,2019,227,10.1559,0,1249,1.6
+Y,04062017_SS,lCA1sjg9o_A,The Usefulness of Useless Knowledge,4,11,2017,221,17.1245,3,2405,1.37
+N,06032014_U,SWJjlrhBvDc,The Real Science Behind Star Trek - Dirk K. Morr,6,3,2014,215,21.6947,0,2558,2.35
+N,04262017_U,k3MDYK3W7pE,Making Things Meaningful in the Ice Age Highlights With Margaret W. Conkey,4,26,2017,215,7.767,0,3009,1.46
+N,05052019_U,9-c0LmhdBRQ,The Science of Star Wars Presentation,5,5,2019,206,24.3651,0,1111,1.53
+N,05242018_U,B0uMII_u_C4,Science Riot - James Schwabacher,5,24,2018,204,13.7834,-1,546,2.56
+N,04182017_U,E9AuEIUplp8,Physics of Baseball Highlights with Alan Nathan,4,18,2017,198,6.0201,0,1087,2.48
+N,12042015_U,we32-od7vPI,"ChicaGO Science - Mary Bauer, C2ST, and HDMZ",12,4,2015,195,4.1145,0,2658,1.35
+N,06212012_U,kW2UHBcD8sk,CERN: What's it all about? 5/1/12 - Young- Kee Kim,6,21,2012,188,11.4823,1,3184,2.01
+N,12062013_U,h3fy2ZLlanM,Body & Machine - Epidermal Electronics - John Rogers,12,6,2013,178,24.3336,1,1880,2.45
+N,10212019_U,ERVoXLUY_JI,Trailblazer of Physics: The Extraordinary Life of Leon Lederman Program,10,21,2019,176,29.4673,2,1899,0.79
+Y,07112017_LS,yk0H0aZMfHk,Antibiotic Hunters: Discovering Drugs in the Ocean,7,13,2017,171,7.2247,1,3690,1.25
+N,09092016_U,4KmSR_OTOKc,The Secret Lives of Female Chimpanzees Highlights,9,9,2016,164,2.4623,0,3821,1.44
+N,11072013_U,UWUkftOPyqk,Chemical Innovations - Molecular Modeling: A Window to the Biochemical World -Greogory A.Voth,11,7,2013,158,19.8456,1,2210,1.72
+N,02102015_U,ObqfPjnEl90,"How to be Healthy When You're Older - Wojtek Chodzko‑Zajko, William Dale, and Louise Hawkley",2,10,2015,157,18.199,0,1658,1.81
+Y,08252017_SS,GV8uZdLQZFQ,Curators: Behind The Scenes of Natural History Museums with Lance Grande,8,26,2017,156,18.6952,1,1756,1.54
+Y,04042018_CEE,z7AytS8gzsU,Challenges and Opportunities in an Emerging Solar Economy,5,21,2018,152,24.0489,2,2549,1.88
+N,06072012_U,CxRHk1u8Lmc,Nano Technology Small is Beautiful - Mark Ratner and Milan Mrksich,6,7,2012,149,13.45,0,2144,2.52
+N,05152019_U,yVzlqMDry8k,"Food for Thought: Connections Between Nutrition and Brain Health, Presentation",5,15,2019,148,18.1983,1,1909,1.2
+N,12092014_U,HR4ICe5jRQI,"Decoding the New Science + Math Standards - M. Lach, B. Reiser, L. Narasimhan, K. Poppenhouse, etc.",12,9,2014,146,5.9254,0,2551,2.16
+N,01312014_U,Thi6iZ4KVts,"The Nature of Nano - Amanda K. Petford-Long, Adam Khan",1,31,2014,143,13.7999,1,1804,1.83
+N,07092020_U,nHgXJqf8OHc,Science from the Frontlines: Engineering at the Service of Humanity,7,9,2020,142,31.0497,2,1750,1.26
+N,07092020_U,a_FO3w8d60E,Science from the Frontlines: Engineering at the Service of Humanity,7,9,2020,6,0.0134,0,581,0.69
+N,03292018_U,oVgf9YaAp38,Personalized Medicine - One size does not fit all!,3,29,2018,138,12.3203,0,2779,1.22
+Y,06202017_HW,AXt_i-6ZnwU,"Dietary Supplements: Stories of Regulation, Safety, and Evidence",6,26,2017,137,13.0809,0,3639,1.84
+N,10272018_U,8XJ3RKryFDs,Lessons from the Movie Armageddon,10,27,2018,135,14.0852,1,17217,0.35
+N,06232014_U,9WXrJUiduHc,"ChicaGO Science - Kapila Viges, C2ST, and HDMZ",6,23,2014,134,1.8103,0,1653,1.09
+N,10252019_U,JJbByC1-LGI,The Earliest Child The Significance of “Selam”,10,25,2019,134,26.7639,1,1766,1.59
+N,09182017_U,Jgin0t8vwDc,"Chicago's Potemkin Village: Why our innovation economy has failed, and how to fix it",9,18,2017,134,4.9063,0,1562,1.09
+N,08222018_U,7sKAjcqaLOY,"Sleep and Clocks, Windows to Health",8,22,2018,132,16.3157,0,1357,2.14
+N,01182013_U,vHoL2poX_3E,Exploring the Universe from the Bottom of the World -  John Carlstrom,1,18,2013,131,63.2526,0,1187,2.7
+N,09272012_U,5TmQY-oE338,"Secrets of the Art World Unlocked - Katherine T. Faber, Kimberly A. Gray and David C. Dunand",9,27,2012,130,4.8829,0,1638,2.69
+N,11192014_U,dew9hHU1_6I,The Future of Work Highlight - Joel Mokyr,11,19,2014,130,2.1433,0,1081,1.94
+Y,08052020_HW,toabem5XXQc,Mindfully Coping: Strategies for Children and Families During a Pandemic,8,5,2020,129,20.2007,3,2712,1.03
+N,11182013_U,Da83KkZvWiI,Out for the Sperm Count: Mysteries of a Declining Resource - Robert Martin,11,18,2013,126,14.9333,0,7570,0.66
+Y,06172020_PS,JHHoSQfotqQ,"Art, Science, and the Elegant Universe",6,18,2020,126,31.7365,9,367,4.09
+Y,06172020_PS,JHHoSQfotqQ,"Art, Science, and the Elegant Universe",6,18,2020,126,31.7365,9,367,4.09
+Y,06172020_PS,fgFm0rv5pFE,"Art, Science, and the Elegant Universe",6,17,2020,72,6.6846,2,3363,1.04
+Y,06172020_PS,fgFm0rv5pFE,"Art, Science, and the Elegant Universe",6,17,2020,72,6.6846,2,3363,1.04
+N,09172014_U,qmPCnjIy0H8,"Superintelligence: Paths, Dangers, and Strategies - Nick Bostrom",9,17,2014,125,15.1481,0,2870,1.29
+N,05272020_U,-AdgTbVXQbk,Science From the Frontlines: Sanitizer & Spirits,5,27,2020,121,31.0052,3,1475,1.36
+Y,09262017_HW,NDDLup4NgIA,New Developments In Mental Health,11,1,2017,121,19.9775,1,2894,1.24
+Y,09262017_HW,NDDLup4NgIA,New Developments In Mental Health,11,1,2017,121,19.9775,1,2894,1.24
+Y,09262017_HW,lk_jExW1wjE,New Developments in Mental Health,10,3,2017,43,4.046,0,0,
+Y,09262017_HW,lk_jExW1wjE,New Developments in Mental Health,10,3,2017,43,4.046,0,0,
+N,12102014_U,VCyIVWJygI4,2014 Women in STEM: Connect Highlight  - Emily Graslie,12,10,2014,121,2.7728,1,1782,3.37
+Y,07212020_TEI,N8Pc8FyKfVM,3D Printing in Action: An Introduction to Digital Fabrication,7,21,2020,120,17.7132,3,1737,1.27
+Y,08272020_LS,S0xgXS4a4uI,Lessons in Biology Taught by a Pathogen,8,27,2020,119,27.5997,4,1353,1.85
+N,10152018_U,CCl8biQEHSo,Science Riot Highlights,10,15,2018,117,3.8542,0,899,2.11
+N,06032020_U,jyF4xHtG_K0,Science From the Frontlines:Virus Entry into Cells,6,3,2020,117,19.4394,8,256,5.86
+N,01132014_U,tm-zqCMYGPo,When Crocs Ate Dinosaurs - Paul Sareno,1,13,2014,116,2.9082,0,2604,1.88
+Y,10052019_HW,S3_sq7jMDic,Filtering the Facts of Kidney Health,10,22,2019,115,6.6792,1,2889,1
+N,03092016_U,JLcX5nKrHdw,"How We Treat Cancer (Recorded Thursday, February 25th, 2016)",3,9,2016,113,12.3373,0,1213,1.73
+N,02212015_U,ep81j6lrtow,"How to be Healthy When You're Older Highlights - W. Chodzko‑Zajko, W. Dale, and L. Hawkley",2,21,2015,112,2.4238,0,1413,2.19
+N,05052017_U,-7d9JvljA5k,Extreme Science The U S  Antarctic Program Highlights With Kelly Kenison Falkner,5,5,2017,110,3.1198,0,3234,1.33
+N,05052015_U,-IngIy99KMo,"The Threat of Superbugs - Robert A. Weinstein, Robert S. Daum, Scott Franzblau, and Michael Federle",5,5,2015,109,12.1893,2,1747,1.49
+N,04292015_U,R1Pqri0rTJY,"The Threat of Superbugs - Robert A. Weinstein, Robert S. Daum, Scott Franzblau, and Michael Federle",4,29,2015,,,,1,0
+N,06032015_U,svLflyS1H5Y,When Playing Sports is Bad For Your Brain - Highlights,6,3,2015,109,2.0671,0,1760,3.01
+N,12192015_U,X8ImshJZAs4,"Women in STEM: Connect 2015. Interview with Kapila Viges, Mary Bauer and Debra Shore",12,19,2015,107,1.0091,0,1878,0.37
+N,12072015_U,qZPpF4CIHkM,"A Picture is Worth 1000 Words--Teaching Science With Comics, with MK Czerwiec",12,7,2015,107,11.1609,0,3857,0.99
+Y,04122018_CEE,aja10Wlvafs,The Future of Trees: Hope in a Changing Climate,4,16,2018,104,12.789,2,1728,1.33
+N,04212016_U,zSCNdnypA2U,The Science of Addiction Highlights,4,21,2016,104,4.3601,0,970,1.03
+N,12012017_U,jELZy2xl9dI,Mathematics--It's as Easy as Pi!,12,1,2017,101,9.6268,1,1325,1.66
+N,11202017_U,wnUVJIQeFvw,Mathematics--It's as Easy as Pi!,11,20,2017,43,8.2866,2,35,0
+N,06172019_U,BNfmjmGFa2M,"C2ST Presents the 2018 FNIH Lurie Prize in Biomedical Sciences Winner Zhijian ‘James’ Chen, PhD",6,17,2019,100,13.4924,1,1814,3.31
+Y,06142018_CEE,-Hiyx7HRCKw,Extreme Storms,6,25,2018,97,13.721,1,880,3.41
+N,05232019_U,Uh7I-37tQMQ,"The Long and Short of Proteomics, How Proteins Shape Who We Are",5,23,2019,97,8.0053,1,1255,2.95
+N,01102020_U,GRjVC0cZx5Q,Program Q&A: The Art of Logic with Dr. Eugenia Cheng,1,10,2020,95,8.0824,0,1454,2.48
+Y,10102017_TEI,dG5ZuXZ4CRE,Technology and Politics,12,27,2017,92,2.9945,0,1004,5.08
+N,12082018_U,UVoTXwVD8ec,C2ST and 2Blades Present: Food Evolution,12,8,2018,91,6.7764,0,1392,1.72
+N,01072019_U,AcVkbMeXRT0,"C2ST and 2Blades Present: Food Evolution, Highlights",1,7,2019,87,2.762,0,1050,2.57
+N,12112014_U,zirDb0caM-g,"2014 Women in STEM - E. Graslie, C. Thomas, A. Schlenker, O. Alabi, S. Hallen, and C. Phillips",12,11,2014,86,4.9256,0,1319,2.65
+N,06172019_U,koFdD2GCBgc,Alvin H. Baum Family Fund Environmental Series: Does Recycling Still Matter? Program,6,17,2019,82,7.163,1,1258,0.87
+Y,10012015_LS,yS0Uuox1FzM,What is the BRAIN Initiative?,10,2,2015,81,11.513,1,1118,1.88
+N,11192014_U,XopRqdd-7BE,Decoding the New Science and Math Standards Highlight - Mary Rockrohr,11,19,2014,78,1.0376,0,708,0.99
+N,10272018_U,_OqaoulZG0Q,"Science Riot - Travis Gallo, PhD",10,27,2018,77,3.0549,0,797,3.39
+N,04302012_U,kvpQoLmXwyc,"The Mind of a Chimpanzee - Elizabeth Lonsdorf, Steve Ross",4,30,2012,77,6.9985,0,770,2.47
+Y,04042018_SS,UnCSWLE7Cmg,Science is a Verb. We Must Get Sciencing. The World Requires It!,4,14,2018,76,4.6509,1,1082,1.48
+N,12072017_U,KoGLipprvEo,Unconscious Bias Highlights,12,7,2017,74,1.3807,0,664,1.51
+N,12052011_U,Y-WPTlI1QdQ,"Street Corner Science Ask a Nobel Laureate Highlights, September 2011 - Leon Lederman",12,5,2011,74,1.7976,0,2374,1.18
+N,02142019_U,5PBWi0hYSo8,Array of Things Highlights,2,14,2019,73,2.3073,0,796,2.64
+Y,02062019_TEI,vejzqy8CNc8,Array of Things,2,12,2019,69,5.552,0,1047,3.06
+Y,03092016_CEE,MmH9cveACvY,Climate Disruption: What We Can Do Now,3,10,2016,68,4.0667,0,590,2.54
+N,11192014_U,joDR_Vp5Flg,Decoding the New Science + Math Standards Highlight - Brian Reiser,11,19,2014,68,1.3495,0,1000,0.4
+N,10242019_U,rAACBWm0c5A,Talking Trees with Author Richard Powers (Audio Only),10,24,2019,66,6.2303,0,654,1.38
+N,06172019_U,RSqfHO4BKv0,"Program Q&A, The 2018 FNIH Lurie Prize in Biomedical Sciences Winner Zhijian ‘James’ Chen, PhD",6,17,2019,65,8.336,0,1197,2.51
+N,10152018_U,ByR7n5P7jX4,Science Riot - Juanita Garcia,10,15,2018,63,1.4361,0,845,2.13
+N,11072013_U,YsUgHpIlLe4,Investing in Innovation for the Future: Science and Technology 3/21/2013 - Robert D. Atkinson,11,7,2013,63,7.6475,0,1191,1.43
+N,04142014_U,qFnIGgGaA3I,Is This Safe to Eat? - Robert E. Brackett and Eric C. Larson,4,14,2014,62,4.6102,0,1883,0.69
+N,03292014_U,tHeRyZ1Vlg0,"The Order of Crystallography January 22, 2014 - Keith Moffat, John Kallend",3,29,2014,62,1.9951,0,668,2.1
+N,12092017_U,9JdfT6LRte4,Mathematics--It's as Easy as Pi Highlights,12,9,2017,61,1.6536,0,1218,1.64
+N,11262014_U,PcQ68vTPXb4,"The Future of Work, Part 1 - Larry Birnbaum, Kris Hammond, Malcolm MacIver, and Joel Mokyr",11,26,2014,61,1.1246,1,1031,2.04
+N,05082020_U,fqy1M47Pqeg,Science from the Frontlines:  Perceptions and Public Understanding of COVID-19 (Virtual Program),5,8,2020,61,4.2903,2,2050,1.37
+N,03162018_U,_O4-KkucxQc,Investing in Science and Education: An Act of Faith; An Evening with John Rowe,3,16,2018,60,1.3329,0,1211,0.74
+N,11192014_U,atEFHtvK3Ms,The Future of Work Highlight - Kris Hammond,11,19,2014,60,0.8889,0,683,1.17
+N,01011970_U,E7GHdUTI-QY,"Science From The Frontlines: COVID-19 Control Measures in Zhejiang, China",1,1,1970,58,4.1032,0,21,0
+N,10212018_U,rbTbWKGHQ5g,"Science Riot - Daniele Procissi, PhD",10,21,2018,56,2.6784,1,637,2.35
+N,09102012_U,1uz_KAtg0rE,Street Corner Science: Ask a Nobel Laureate - Laureate Leon Landerman,9,10,2012,55,12.5182,0,1485,1.95
+N,02082019_U,2WJca5QFhHg,STEM Ask & Learn January 2019,2,8,2019,55,0.258,0,413,2.42
+N,03032019_U,7dt9NJyGAVc,"Resilience, Empathy, Plasticity Women in Neuroscience",3,3,2019,55,6.1974,0,1368,1.61
+N,08242018_U,TMoCSOEP1mQ,"Sleep and Clocks, Windows to Health, Highlights",8,24,2018,55,1.4122,1,801,2.25
+Y,11172016_CEE,X8WyYNXgTp8,Climate Change and Energy Needs: Finding a Path to Sustainability,12,14,2016,55,13.9086,0,684,2.05
+N,05082019_U,6BIQo9pOx2M,STEM Ask & Learn May 2019,5,8,2019,54,0.7751,0,448,2.46
+N,05012019_U,vW3KL97bGUw,"How Trees Can Help the World: Re-treeing Communities and Making the World a Cooler Place to Live, #1",5,1,2019,54,1.6162,1,686,1.46
+N,11112014_U,xCR_jC6kEzw,"ChicaGO Science - Debra Shore, C2ST, and HDMZ (Water: Chicago in the 21st Century and Beyond)",11,11,2014,54,1.0867,0,1272,0.79
+N,12092011_U,uJ7Pcd5_3vA,"Storing Alternative Energies - Mohammad Shahidehpour, Micheal R. Wasielewski and Jeff Chamberlain",12,9,2011,53,2.0595,0,814,2.09
+N,03312018_U,K_8PbTtF9e4,Personalized Medicine - One size does not fit all! Highlights,3,31,2018,51,2.8317,0,825,1.45
+N,09042020_U,1dkjVjmKoHA,Virus Entry into Cells Highlights (SFTFL),9,4,2020,50,0.1702,4,703,4.55
+N,10122018_U,TLZrkZDnwPM,Head Banging: How Music and Concussions Impact Brain Health,10,12,2018,50,2.651,0,937,1.92
+N,10012018_U,Sk3xTxaQXDI,Head Banging: How Music and Concussions Impact Brain Health,10,1,2018,20,0.2399,0,123,4.88
+N,10152018_U,HiMC5z0WrU8,Science Riot - Abhinav Bhushan,10,15,2018,49,1.3998,0,1224,2.37
+Y,02202019_HW,MbHjnaq9SCk,"Mindfulness, Meditation, and Yoga",3,4,2019,49,7.3993,1,946,1.16
+N,11192014_U,8qZVvcJc_Wc,Decoding the New Science and Math Standards Highlight - Lynn Narasimhan,11,19,2014,48,0.5769,0,793,0.76
+N,04272018_U,Gv62bexrPaY,The Future of Trees Hope in a Changing Climate Highlights,4,27,2018,48,1.1281,1,1183,1.18
+N,12102014_U,00bU4j8L_6Q,"Science + Cinema: New Screen Frontiers - Peggy Mason, John A Kessler, and Mark Oreglia",12,10,2014,47,2.154,0,1425,1.82
+N,12052011_U,r-rQ0ND0GTk,Seth Mnookin Panic Virus MSI Lecture,12,5,2011,47,4.6086,0,1623,1.42
+N,01032019_U,Ixy_Ib87nqI,"Bionics, Robotics, and the Future of Rehabilitation from the Shirley Ryan AbilityLab, Q&A",1,3,2019,46,0.892,0,927,2.05
+N,05152020_U,XeMYfUbjkS4,Science from the Front-lines Racial Disparity in COVID 19 Cases (Virtual Program),5,15,2020,46,4.5949,0,2471,0.77
+N,02152015_U,n6t7JCUsdvk,"Water: Chicago in the 21st Century and Beyond - Debra Shore, Aaron Packman, and Seth Snyder",2,15,2015,44,8.9617,0,1308,0.92
+N,05102020_U,p1oBhDvcObQ,Science from the Frontlines: Fighting COVID-19(Virtual Program),5,10,2020,44,3.0224,0,2811,0.82
+N,02242015_U,yRvvdKLQz5w,"Water: Chicago in the 21st Century and Beyond Highlights - Debra Shore, Aaron Packman, & Seth Snyder",2,24,2015,44,0.9453,0,900,0.33
+Y,11132017_SS,p_3GDBkw3H4,Unconscious Bias,11,28,2017,42,5.7522,0,1224,0.82
+Y,11132017_SS,p_3GDBkw3H4,Unconscious Bias,11,28,2017,42,5.7522,0,1224,0.82
+Y,11132017_SS,1Pwlog7ZtLU,Unconscious Bias,11,20,2017,21,2.5323,0,9,0
+Y,11132017_SS,1Pwlog7ZtLU,Unconscious Bias,11,20,2017,21,2.5323,0,9,0
+N,04202015_U,shtDx8nuJsw,"Music - There's a Science to That Highlights - Nicolas Collins, Doug McBride, & Torin Hopkins",4,20,2015,41,1.2842,0,793,0.63
+N,05202015_U,2j1yAilJbcg,"When Playing Sports is Bad For Your Brain - Dorothy Kozlowski, Jeffrey Mjaanes, and Peggy Mason",5,20,2015,40,2.0422,0,1163,0.69
+N,02232017_U,VX3EfOoYjeI,Why in the World Haven’t We Cured Alzheimer’s by Now?,2,23,2017,40,1.2529,0,1041,1.15
+N,05282020_U,J-Y7GGIugL0,Science From the Front-lines Gender Disparity in COVID 19 Cases (Virtual Program),5,28,2020,38,4.1395,0,2550,0.59
+N,08132012_U,Iunad9WaGi4,Women in Science Symposium: Big Ideas and Big Impact - Melissa Gilliam,8,13,2012,37,1.5702,0,1020,1.27
+N,11072013_U,D8RzWk2AXWA,"C2ST: Women in Science Symposium : Building an Identity, 2010 Keynote",11,7,2013,36,1.1573,0,488,3.48
+N,12282019_U,KSXBZGio1oQ,Program Q&A: The Case for Including Every(Body),12,28,2019,35,1.5281,0,833,2.16
+N,03012019_U,nTmd2sRRQsA,STEM Ask & Learn March 2019,3,1,2019,35,0.2783,0,477,2.52
+N,05052015_U,3widWzQesyI,"The Threat of Superbugs Highlights - R.A. Weinstein, R.S. Daum, S. Franzblau, and M. Federle",5,5,2015,34,0.9232,0,1219,0.74
+N,06022020_U,UWmOjaDJWbE,Science From The Frontlines: Virus Entry into Cells,6,2,2020,34,1.9091,0,1971,0.76
+N,11122013_U,T4kpN936RH0,The Price of Doing Nothing: The World's Energy Future Highlights - George  Crabtree,11,12,2013,33,0.4802,0,1003,0.7
+N,03282019_U,UbO_CSzaVaU,"How Sexual Harassment Culture Infects Academia, Highlights",3,28,2019,33,1.3071,0,1413,1.06
+N,10242019_U,fgW0hJnCXZ4,"Program Q&A: Trailblazer of Physics: The Extraordinary Life of Leon Lederman, Ask A Physicist Panel",10,24,2019,33,1.7933,0,853,1.64
+N,04112019_U,tjYjR65k1JM,The Science of Star Wars Highlights,4,11,2019,33,0.6491,0,711,1.69
+N,11112019_U,wt8Ra8OKyFE,STEM Ask & Learn 2 November 2019,11,11,2019,33,0.3095,0,490,2.24
+N,12102014_U,ytKPHAMhphE,2014 Women in STEM: Connect Highlight  - Carolyn Phillips,12,10,2014,33,0.2032,0,773,0.39
+N,10172019_U,EC2aDXK_Bfs,Women in STEM Ask & Learn October 2019,10,17,2019,32,0.2313,0,572,1.75
+N,12092011_U,VDueXquDTl4,Hubble's Story - John Grunsfeld,12,9,2011,32,0.4756,0,977,1.64
+N,12052011_U,RfAlrZh7fs4,Cyber Security 02/17/2011 -Michael Skwarek and Jason DeHaan,12,5,2011,31,2.1449,0,221,3.17
+N,09252015_U,ZE08Ne1SNh4,"#Asthma, #Comics & Metaphor w/ Dr. Alex Thomas",9,25,2015,31,0.6737,0,2893,0.62
+N,11262014_U,kNpJDTlwMoY,"The Future of Work, Part 2 - Larry Birnbaum, Kris Hammond, Malcolm MacIver, and Joel Mokyr",11,26,2014,30,0.2351,0,844,1.07
+N,10162018_U,8MLyI9o0-VY,Science Riot - Yeva Shan,10,16,2018,29,1.106,0,530,2.08
+N,05302019_U,M1xkqIs8Kzs,STEM Ask & Learn June 2019,5,30,2019,29,0.2754,0,505,1.58
+N,02032012_U,UdOdthMV_zE,"Gene Patenting: The  Economic Legal and Health Dilemma 11/10/2011- Philip, Rena , Robert",2,3,2012,29,1.9452,0,537,1.3
+N,10202018_U,31OaBwb3C4M,Head Banging: How Music and Concussions Impact Brain Health: Q&A Session,10,20,2018,28,1.3004,0,729,1.65
+N,11192014_U,63s02izCK84,Decoding the New Science and Math Standards Highlight - Michael Lach,11,19,2014,28,0.4533,0,717,0.28
+N,10212018_U,COyYwFpklUU,Lessons from the Movie Armageddon Q&A,10,21,2018,28,1.7097,0,1696,1.06
+N,05022012_U,DHJ5SHroEWw,"High-Speed Rail: The Midwest Moving Forward - Hani Mahmassani, Cristopher Barkan, Michael Franke",5,2,2012,28,0.378,1,1023,0.98
+N,03032019_U,MJlGGJHovuM,"Resilience, Empathy, Plasticity Women in Neuroscience Q&A",3,3,2019,28,1.9625,0,916,1.53
+N,12152017_U,_-EKpxcI2mo,"NYC Rat DNA  Uptown, Downtown, and Midtown",12,15,2017,28,0.9319,0,1321,0.61
+N,10022018_U,r1K73owhNAc,Science in Film: Lessons from the Movie Armageddon Final,10,2,2018,28,1.9539,1,274,4.01
+N,12102014_U,txHjY_plG4I,2014 Women in STEM: Connect Highlight  - Susan Hallen,12,10,2014,28,0.3659,0,737,0.27
+N,03172019_U,vV45qkA54D8,Brain Buddies Live Podcast #1,3,17,2019,28,1.6388,0,571,2.45
+N,05142020_U,1XtQ_n2FkdU,Science From The Frontlines: 3D Printing PPE (Virtual Program),5,14,2020,27,0.9657,0,1829,0.66
+N,05232014_U,4t__usTp5dc,The Multiplication of Threats: Climate Change & the Risks to National Security - Stephen Cheney etc.,5,23,2014,26,1.412,0,593,2.02
+N,04032016_U,6oR8TN1pQWk,Climate Disruption: What We Can Do Now Highlights,4,3,2016,26,0.3644,0,363,2.48
+N,10252019_U,TbhLUBYwBSI,Program Q&A: The Earliest Child The Significance of “Selam”,10,25,2019,26,1.271,1,894,1.23
+N,12092011_U,a_ju9rri2R8,"Science & Technology Policy: A view from Washington - Judy Biggert, Bill Foster and Leon Lederman",12,9,2011,26,6.8382,0,796,1.01
+N,04022015_U,fVBDHebW0QA,"Music - There's a Science to That -  Nicolas Collins, Doug McBride, & Torin Hopkins",4,2,2015,26,3.3263,0,1128,0.44
+N,03012019_U,wNHcvCL_lbs,New Directions in Strategic Energy Analysis,3,1,2019,26,3.1482,0,610,0.82
+N,11182013_U,OPzQnnsKjUA,Out for the Sperm Count: Mysteries of a Declining Resource Highlights with Robert Martin,11,18,2013,25,0.609,0,3600,0.36
+N,12092011_U,XTJcawXudlk,Policy-Heidi Schweingruber,12,9,2011,25,1.2306,0,295,3.05
+N,03092016_U,_gSUJGZ-gOc,How We Treat Cancer Highlights,3,9,2016,25,0.8927,0,245,1.63
+N,01302015_U,2US5yXAX9Fs,Presidents DON'T Age Faster Than The Rest of Us - S. Jay Olshansky and Aaron Freeman,1,30,2015,24,0.5865,0,423,0.95
+N,12052019_U,GLbwpVblLb8,STEM Ask & Learn December 2019,12,5,2019,24,0.3026,0,451,1.55
+N,12042017_U,ON2ANInJDiQ,New Developments In Mental Health Highlights,12,4,2017,24,0.5356,0,1170,0.26
+N,07012020_U,s2jkrmUK6ow,An Evening Inside the Multiverse (Virtual Program),7,1,2020,24,1.4831,0,1795,0.5
+N,05022019_U,AZqeB4W8R0A,"How Trees Can Help the World: Re-treeing Communities and Making the World a Cooler Place to Live, #2",5,2,2019,23,0.3021,-1,525,0.95
+N,07252018_U,uZxmkCM9P_o,Extreme Storms Highlights,7,25,2018,23,0.2673,0,520,1.54
+N,07312020_U,SNlYRbUzHro,Racial Disparities in Covid Highlights (SFTFL),7,31,2020,21,1.4202,0,373,1.07
+Y,03222017_CEE,Uw0SwlQZv4c,Recent Advances in CO2 Storage Science and Technology,4,3,2017,21,1.28,0,703,1.56
+Y,03212019_SS,wEx--Bz2HJQ,How Sexual Harassment Culture Infects Academia,3,27,2019,21,1.3641,0,1464,0.89
+N,01302015_U,zSICrLBYjkI,How to be Healthy When You're Older - Elizabeth Brackett and Aaron Freeman,1,30,2015,21,0.7903,0,667,1.35
+N,05152019_U,B87_R6701P0,"Food for Thought: Connections Between Nutrition and Brain Health, Program Q&A",5,15,2019,20,0.15,0,680,1.62
+N,01182013_U,LnwxDPqCILw,Chicago Council on Science and Technology Highlights,1,18,2013,20,0.1445,0,656,1.52
+N,08052020_U,hJPcVWaTR48,Building Your Own PPE Network (SFTFL),8,5,2020,20,0.4132,0,406,1.23
+N,11072013_U,NsxJ8RYRkkM,C2ST: Agriculture's Role in the Energy Future 2008 - Mark Matlock,11,7,2013,19,1.2786,0,829,0.48
+N,06172019_U,qxUYmcSMQB4,"Interview with the 2018 FNIH Lurie Prize in Biomedical Sciences Winner Zhijian ‘James’ Chen, PhD",6,17,2019,19,0.7878,0,833,1.32
+N,11192013_U,4AWR0BKDJCE,"FRACKING - the quest for energy independence - Gerald,Trevor, Jordan  and John",11,19,2013,18,0.2679,0,862,1.04
+N,05082019_U,_a8CWTmPvko,STEM Ask & Learn April 2019,5,8,2019,18,0.1104,0,432,1.62
+N,12282019_U,u8LBBRmGVFM,The Case for Including Every(Body),12,28,2019,18,0.7627,0,579,1.55
+N,02192015_U,RpHHJP8MLYI,Should America Launch A Major Push Into Solar Energy? - Phillip Dowd,2,19,2015,17,0.826,0,435,0.69
+N,08132012_U,_fcQW3nRfvg,Women in Science Symposium 2012: Lab Coats to Boardrooms 05/12/12,8,13,2012,17,1.5626,0,1389,0.58
+N,05152017_U,Ch6k2wEOjHk,C2ST 2017 Highlights,5,15,2017,16,0.2836,0,190,1.05
+N,03092020_U,Zc9yYyrv4Fo,STEM Ask & Learn February 2020,3,9,2020,16,0.3315,0,473,0.63
+N,05052019_U,cpcq9eM2NT0,The Science of Star Wars Q&A,5,5,2019,16,0.6035,0,604,0.66
+N,05092012_U,Cdwwy6W3tIA,Ocean's Health: An Ecosystem on the Brink 4/19/12 - Allen LaPointe,5,9,2012,15,1.1938,0,366,1.09
+N,05022012_U,YvRxX0NSqkg,Tesla Highlights,5,2,2012,15,0.1764,0,1100,0.27
+N,12102014_U,ZF1N78wGbro,2014 Women in STEM: Connect Highlight  - Onome Alabi,12,10,2014,14,0.37,0,505,0.79
+N,11192014_U,n_WTGMnGv_o,Decoding the New Science + Math Standards Highlight - Kurt Poppenhouse,11,19,2014,14,0.1171,0,429,0
+N,06172019_U,ppisJdNwnK0,"Program Q&A, Alvin H. Baum Family Fund Environmental Series: Does Recycling Still Matter?",6,17,2019,14,2.126,0,853,0.82
+N,03052019_U,OOItgGX78P0,"Mindfulness, Meditation, and Yoga Highlights",3,5,2019,13,0.3925,0,573,0.35
+N,05312012_U,m8rYo4O4P-0,Sustainable Energy: Fact or Fiction highlights - 1/31/2012 By George Crabtree,5,31,2012,13,0.1705,0,1198,0.5
+N,12102014_U,rq4yaa-ro9Q,2014 Women in STEM: Connect Highlight  - Ann Schlenker,12,10,2014,13,0.1755,0,517,1.35
+N,06112012_U,O0C07tzlVyM,Sustainable Energy: Fact or Fiction- George Crabtree,6,11,2012,12,2.1769,0,364,1.37
+N,06122014_U,OG7JocUMkgM,Chicago Council on Science and Technology 2014 Highlights,6,12,2014,12,0.2396,0,242,3.31
+N,08042020_U,OhApPVO6wOY,Perceptions and Public Understanding of COVID-19 Highlights (SFTFL),8,4,2020,12,0.5043,0,361,1.39
+N,05022012_U,dEg2qE2_fsc,Nuclear Non-Proliferation - Robert Gallucci,5,2,2012,12,2.2838,0,293,2.39
+N,12282019_U,wNoBixztdhQ,Interviews: The Case for Including Every(Body),12,28,2019,12,0.4674,0,446,1.57
+Y,01252011_PS,3q0qw-sZamk,The Moon,10,3,2012,11,0.8134,0,212,3.3
+N,08102012_U,ASD81xd0J1Y,Women in Science Symposium 2012: Big Ideas Big Impact - Opening Keynote Dr. Alice Huang 05/11/12,8,10,2012,11,1.33,0,368,1.63
+N,11182013_U,yxCElWgSU0c,"Landscape of Techpark Innovation Highlights with Kapila, David, Steve, John and Jim",11,18,2013,11,0.181,0,409,0.98
+N,08072020_U,3BOfwVzcdbY,Fighting COVID-19 Highlights (SFTFL),8,7,2020,10,0.2089,0,400,1.75
+N,11182013_U,DnAs5Ow7SZA,Women in Science Symposium: Big Ideas Big Impact 2012 Highlights,11,18,2013,10,0.1449,0,346,0.58
+N,10012012_U,JVkEnJUAdTA,Hubble's Story 10-28-2009 - John Grunsfeld,10,1,2012,10,0.1385,0,261,1.92
+N,11072013_U,XeRMT_5mpis,"C2ST: Future Fuels 2010 - Seth Synder,  Marshall",11,7,2013,10,0.4777,0,315,1.59
+N,12102014_U,ZFiDJwrAdLQ,2014 Women in STEM: Connect Highlight - Cristal Thomas,12,10,2014,10,0.0993,0,583,0.34
+N,03272019_U,jLrG1oIq8zg,"How Sexual Harassment Culture Infects Academia, Questions & Answers",3,27,2019,10,0.3508,0,1186,0.51
+N,12092011_U,lfLLxF5h7OE,Street Corner Science: Ask a Scientists at the MCA,12,9,2011,9,0.1087,0,1077,0.28
+N,04292016_U,qLw8whcsCfU,C2ST 2016 Highlight,4,29,2016,9,0.1206,0,137,1.46
+N,08232017_U,vMLFe_45FfM,Eclipse Chat with Physicist Bill Higgins,8,23,2017,9,0.2396,0,427,0.47
+N,01011970_U,GX0Bkocmopg,"Bionics, Robotics, and the Future of Rehabilitation from the Shirley Ryan AbilityLab",1,1,1970,8,0.4052,0,38,2.63
+Y,02202018_SS,8f6uz1LKqeU,Investing in Science and Education: An Act of Faith,2,24,2018,7,1.3173,0,95,2.11
+N,11182013_U,SvfgcvmvFfA,America's Digital Tomorrow - 09.20.12 with Howard Tullman,11,18,2013,7,0.1405,0,417,0.72
+N,12092011_U,at9i79FQ7zE,"Using Scientific Research to Fix Science Education- Samuel Silverstein, John  C. Dalton",12,9,2011,7,0.084,0,306,0.98
+N,06042012_U,1YW-WqHdjpI,America's Energy Challenge -  Steve Koonin,6,4,2012,6,2.4908,0,638,0.63
+N,08102012_U,3wnPNAgSDWY,Women in Science Symposium 2012: Session 1 - Game Changers 05/12/12,8,10,2012,6,0.1565,0,260,0.38
+N,11072013_U,7-oXMUrVBQ0,C2ST: Water - The New Oil 2009 - Debra Shore,11,7,2013,6,0.7223,0,224,0.45
+N,11122013_U,IlVfqpx52wk,C2ST 2013 Fundraiser: An Evening with the Stars of Science and Technology by Andrea,11,12,2013,6,0.0521,0,323,1.24
+N,11072013_U,qBHrktvyQo0,C2ST: Exelon 2020 (2009),11,7,2013,6,0.0429,0,270,1.11
+Y,08052011_SS,lMY-AOgXPew,Tesla,12,5,2011,5,0.0652,0,1309,0.23
+N,12192015_U,vj_y-GvWc4c,Women in STEM: Connect 2015,12,19,2015,5,0.0211,0,509,0.59
+N,03042019_U,CdcCjeiEtWg,"Mindfulness, Meditation, and Yoga, Q&A",3,4,2019,4,0.1374,0,478,0.21
+N,09122012_U,CoDHab-SqGI,"Women in Science Symposium 2010: Building an Identity - April 17, 2010",9,12,2012,4,0.079,0,252,1.19
+N,11072013_U,FCO7DksLF2A,"C2ST: Women in Science  Symposium: Building an Identity, 2010 Panel Discussion",11,7,2013,4,0.2105,0,793,0.5
+N,03132013_U,odkjchmOBxY,The next Generation of Biomedical Research: Implications for the future of Health care - Mary,3,13,2013,4,0.2018,0,216,0.46
+N,11072013_U,buYFbvPRvmM,C2ST: Women in Science Symposium: Building an Identity,11,7,2013,3,0.005,0,178,0
+N,02102012_U,yWzHHz9xSoY,Policy of Obesity 12/1/11,2,10,2012,3,0.0321,0,223,0.45
+N,11072013_U,BBDwDfETqk4,"The Landscape of Techpark Innovation - Kapila , David , Steve, John  and Jim",11,7,2013,2,0.0035,0,358,0.28
+N,02242015_U,H3ZVLksBgg0,Chicago Council on Science and Technology Winter 2014 Highlights,2,24,2015,2,0.058,0,111,1.8
+N,12102011_U,IYiw4PyLqTg,Chicago's Water: Protecting Our Precious Resource  10/13/11 - Debra Shore,12,10,2011,2,0.0004,0,467,0.21
+N,08132015_U,Ozc_WGCcIGY,Chicago Council on Science and Technology Spring 2015 Highlights,8,13,2015,2,0.0726,0,166,1.2
+N,11072013_U,PnQhLb6EvKw,C2ST: Science In The New Millenium 2008 - Alan Leshner,11,7,2013,2,0.0115,0,315,0.32
