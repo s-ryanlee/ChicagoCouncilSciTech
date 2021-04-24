@@ -1,7 +1,7 @@
 # SI507 - Intermediate Programming Final Project
 [Course Listing](https://www.si.umich.edu/programs/courses/507/)
 
-# Fianl Project Overview
+# Final Project Overview
 
 ## Milestones
 
@@ -21,3 +21,6 @@ The goal of the final project is for you to showcase what you’ve learned in 50
 ## Here are a couple of examples that would be reasonable final projects:
 - A program that lets a user choose a city and see the average ratings for differentrestaurant types(e.g., bar, breakfast, Indian, Mediterranean) from Google, Yelp,and OpenTable as plotly bar or scatter charts.
 - A program that aggregates crime data fromhttps://spotcrime.com/mi/ann+arbor/daily and allows a user to select one ormore crime types to see a graph of crime frequency by month, either for a singleyear comparing across several years.
+
+
+# Project Proposal and Checklist
