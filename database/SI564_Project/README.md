@@ -38,4 +38,8 @@ What to turn in:
 
 # SQL Queries
 
+Database created using DataGrip
+
+[SQL Queries](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/465c27c00481790b86ca5b4fdc4ed752f15cff0c/database/SI564_Project/proj_query_notes.pdf)
+
 # Write Up
