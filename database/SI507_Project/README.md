@@ -24,3 +24,26 @@ The goal of the final project is for you to showcase what you’ve learned in 50
 
 
 # Project Proposal and Checklist
+
+## Data Sources
+
+### Data Origin: [c2st.org/events](https://www.c2st.org/events)
+
+### Data Access
+
+I used the requests module to access the data, Beautiful Soup to parse html, and have plans to implement caching functions similar to the implemenation in [Project 2](https://github.com/s-ryanlee/Project2Winter2021). 
+
+### Summary of Records
+
+- Estimated Total Records
+    - There are about 5 events per Event listing page
+    - There are 53 pages of events
+    - Estimated 265 records to be compiled
+- Current Records:
+    - Currently I've compiled 5 records and working on a function to crawl each of the event listing pages to collect the reamining ~260 records
+
+## Database
+
+Events are the primary linking source available. Web traffic data is collected by the organization from Google Analytics and reported on monthly via Google Data Studio.
+Eventbrite event registration pages, c2st.org event specific pages, and YouTube videos are all linked through each specific C2ST event. 
+Additional data that is tracked includes analytics from Facebook and Event attendance are exported and entered manually, respectively.
