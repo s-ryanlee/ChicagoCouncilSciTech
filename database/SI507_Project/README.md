@@ -47,3 +47,27 @@ I used the requests module to access the data, Beautiful Soup to parse html, and
 Events are the primary linking source available. Web traffic data is collected by the organization from Google Analytics and reported on monthly via Google Data Studio.
 Eventbrite event registration pages, c2st.org event specific pages, and YouTube videos are all linked through each specific C2ST event. 
 Additional data that is tracked includes analytics from Facebook and Event attendance are exported and entered manually, respectively.
+
+## Interaction and Presentation Plans
+
+### Interaction: Interactive Google Colab Notebook
+
+- C2ST did not want any tool that required technical ability to use
+
+- We have another notebook that implements user input to help them clean and reformat their survey data
+
+- Using Google Colab prevents any technical inaccessibilty from running programs from the command line
+    - we attempted to implement a flask program for the organization earlier in the semester, and could not find a way to host the web application publicly
+    - the organization did not want to have to run anything from their local machines, which is why we opted for Google Colab - no local python environment needed to run.
+
+### Visualizations
+
+- Organization requested the 'database' contained in a google sheet/excel file that gets repopulated when the organization runs the program to update their event data.
+
+- They requested visualizations to be maintained in a Google Data Studio report, as this is how they recieve analytic reporting for 3 other data sources (Web traffic across their main c2st.org page and web traffic across their event registration eventbrite page, and YouTube Video analytics)
+
+- Plan to create 4 visualizations: 
+    1. Bar plot of number of events in each series, further broken down by day of week
+    2. Scatter plot of program day of week and attendance rates
+    3. Bar plot of eventbrite registration rates for events in each program series
+    4. Scatter plot of eventbrite registration traffic and event attendance rate
