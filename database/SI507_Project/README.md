@@ -75,7 +75,7 @@ The final Database Schema ended up as a hierarchcial database model rather than 
 
 # Exploratory Data Analysis
 
-Analysis was first completed in a Google Colab Notebook, then added to c2storg_webcrape.py for embedding in Flask application.
+Analysis was first completed in a [Google Colab Notebook](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/898101c2b13b599bad030f3d0c5b68e68e79251c/database/SI507_Project/EDA.ipynb), then added to c2storg_webcrape.py for embedding in Flask application.
 
 ![Title Length](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/6845f1d91b7be4bc816ea57ef35759969c9262d3/assets/SI507images/name%20length%20categories.PNG)
 
