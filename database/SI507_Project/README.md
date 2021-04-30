@@ -22,6 +22,57 @@ The goal of the final project is for you to showcase what you’ve learned in 50
 - A program that lets a user choose a city and see the average ratings for differentrestaurant types(e.g., bar, breakfast, Indian, Mediterranean) from Google, Yelp,and OpenTable as plotly bar or scatter charts.
 - A program that aggregates crime data fromhttps://spotcrime.com/mi/ann+arbor/daily and allows a user to select one ormore crime types to see a graph of crime frequency by month, either for a singleyear comparing across several years.
 
+# Program Use
+
+1. c2storgevents_webscrape.py
+    - Flask Web Application
+    - launch from the terminal
+    - creates cache in local directory for future use
+    - Downloadable Data Files
+        - complete list of C2ST Events
+        - complete list of C2ST Event Speakers 
+
+![Display Example](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/110432c4fdfcf4233bac183c5933a1d6cf24265d/assets/SI507images/c2st_flask_display1.PNG)
+
+## Supplementary Programs
+
+2. update_c2st_events_app.exe
+    - executable python script of web scraping and functions
+    - outputs 3 files
+        - all_events.csv
+        - all_event_guests.csv
+        - master_event_files.xlsx
+    - can be run without access to a terminal and python environment
+ 
+![Example](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/6845f1d91b7be4bc816ea57ef35759969c9262d3/assets/SI507images/exe_fetching.PNG)
+
+3. [Data Studio Formatting Notebook](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/e8a14a0bb7d6e1da5de8c1dc3a7a8194a86253ee/database/SI507_Project/DataStudioFormatting.ipynb)
+    - Takes 4 files as input
+        - Data Studio Report Table CSVs (c2st.org popular pages, eventbrite web traffic pages, and YouTube video views)
+        - all_events.xlsx
+    - Calculates Levenshtein distance ratios to determine similarity between Event Title and Page or Video Titles using fuzzywuzzy package
+    - Stores matches with a ratio of 90 or greater and links event number
+    - outputs connected data
+ 
+# Final Schema
+
+The final Database Schema ended up as a hierarchcial database model rather than a relational model. 
+
+![actual database schema](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/6845f1d91b7be4bc816ea57ef35759969c9262d3/assets/SI507images/webscrape_actual_erd.png)
+
+# Exploratory Data Analysis
+
+Analysis was first completed in a Google Colab Notebook, then added to c2storg_webcrape.py for embedding in Flask application.
+
+![Title Length](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/6845f1d91b7be4bc816ea57ef35759969c9262d3/assets/SI507images/name%20length%20categories.PNG)
+
+![Day of Week](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/6845f1d91b7be4bc816ea57ef35759969c9262d3/assets/SI507images/weekday%20categories.PNG)
+
+![Program Series](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/9c5e5429279cc919701b385770acaeb4bc270622/assets/SI507images/series%20categories.PNG)
+
+![Day of Week Subcategorized by Program Series](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/9c5e5429279cc919701b385770acaeb4bc270622/assets/SI507images/total%20events%20by%20day%20of%20week%20and%20series.PNG)
+
+![5 Feature Dimension Reduction (t-SNE)](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/9c5e5429279cc919701b385770acaeb4bc270622/assets/SI507images/C2ST_Cluster_EDA.png)
 
 # Project Proposal and Checklist
 
@@ -47,6 +98,12 @@ I used the requests module to access the data, Beautiful Soup to parse html, and
 Events are the primary linking source available. Web traffic data is collected by the organization from Google Analytics and reported on monthly via Google Data Studio.
 Eventbrite event registration pages, c2st.org event specific pages, and YouTube videos are all linked through each specific C2ST event. 
 Additional data that is tracked includes analytics from Facebook and Event attendance are exported and entered manually, respectively.
+
+### Proposed Database Schema
+
+including external sources not used directly in this project
+
+![Proposed Database Schema](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/3aeac20d5c9d46f782c02ce23867640c0cb10a62/assets/SI507images/webscrape_erd.png)
 
 ## Interaction and Presentation Plans
 
