@@ -22,40 +22,47 @@ The goal of the final project is for you to showcase what you’ve learned in 50
 - A program that lets a user choose a city and see the average ratings for differentrestaurant types(e.g., bar, breakfast, Indian, Mediterranean) from Google, Yelp,and OpenTable as plotly bar or scatter charts.
 - A program that aggregates crime data fromhttps://spotcrime.com/mi/ann+arbor/daily and allows a user to select one ormore crime types to see a graph of crime frequency by month, either for a singleyear comparing across several years.
 
-# Program Use
+# Milestone 3 - Final Project Submission
 
-1. c2storgevents_webscrape.py
-    - Flask Web Application
-    - launch from the terminal
-    - creates cache in local directory for future use
-    - Downloadable Data Files
-        - complete list of C2ST Events
-        - complete list of C2ST Event Speakers 
-    - Navigable Upcoming Events Listing
-    - Additional Event Details table
-    - Exploratory Data Analysis Visualizations
+## Primary Program
 
-![Display Example](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/110432c4fdfcf4233bac183c5933a1d6cf24265d/assets/SI507images/c2st_flask_display1.PNG)
+### 1. c2storgevents_webscrape.py
+
+- Flask Web Application
+- launch from the terminal
+- creates cache in local directory for future use
+- Downloadable Data Files
+    - complete list of C2ST Events
+    - complete list of C2ST Event Speakers 
+- Navigable Upcoming Events Listing
+- Additional Event Details table
+- Exploratory Data Analysis Visualizations
+
+![Display Example1](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/110432c4fdfcf4233bac183c5933a1d6cf24265d/assets/SI507images/c2st_flask_display1.PNG)
+
+![Display Example2](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/8fed82bf3a245947bd67de662b466b3761c7c01b/assets/SI507images/c2st_flask_display2.PNG)
 
 ## Supplementary Programs
 
-2. update_c2st_events_app.exe
-    - executable python script of web scraping and functions
-    - outputs 3 files
-        - all_events.csv
-        - all_event_guests.csv
-        - master_event_files.xlsx
-    - can be run without access to a terminal and python environment
+### 2. update_c2st_events_app.exe
+
+- executable python script of web scraping and functions
+- outputs 3 files
+    - all_events.csv
+    - all_event_guests.csv
+    - master_event_files.xlsx
+- can be run without access to a terminal and python environment
  
 ![Example](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/6845f1d91b7be4bc816ea57ef35759969c9262d3/assets/SI507images/exe_fetching.PNG)
 
-3. [Data Studio Formatting Notebook](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/e8a14a0bb7d6e1da5de8c1dc3a7a8194a86253ee/database/SI507_Project/DataStudioFormatting.ipynb)
-    - Takes 4 files as input
-        - Data Studio Report Table CSVs (c2st.org popular pages, eventbrite web traffic pages, and YouTube video views)
-        - all_events.xlsx
-    - Calculates Levenshtein distance ratios to determine similarity between Event Title and Page or Video Titles using fuzzywuzzy package
-    - Stores matches with a ratio of 90 or greater and links event number
-    - outputs connected data
+### 3. [Data Studio Formatting Notebook](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/e8a14a0bb7d6e1da5de8c1dc3a7a8194a86253ee/database/SI507_Project/DataStudioFormatting.ipynb)
+
+- Takes 4 files as input
+    - Data Studio Report Table CSVs (c2st.org popular pages, eventbrite web traffic pages, and YouTube video views)
+    - all_events.xlsx
+- Calculates Levenshtein distance ratios to determine similarity between Event Title and Page or Video Titles using fuzzywuzzy package
+- Stores matches with a ratio of 90 or greater and links event number
+- outputs connected data
  
 # Final Schema
 
@@ -77,7 +84,7 @@ Analysis was first completed in a Google Colab Notebook, then added to c2storg_w
 
 ![5 Feature Dimension Reduction (t-SNE)](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/9c5e5429279cc919701b385770acaeb4bc270622/assets/SI507images/C2ST_Cluster_EDA.png)
 
-# Project Proposal and Checklist
+# Milestone 1 and 2 - Project Proposal and Checklist
 
 ## Data Sources
 
