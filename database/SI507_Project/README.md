@@ -30,6 +30,7 @@ The goal of the final project is for you to showcase what you’ve learned in 50
 
 - Flask Web Application
 - launch from the terminal
+- crawls and scrapes data from [event listing pages](https://www.c2st.org/events) and [event specific pages](https://www.c2st.org/event/building-equity-sustaining-bipoc-in-stem/) 
 - creates cache in local directory for future use
 - Downloadable Data Files
     - complete list of C2ST Events
