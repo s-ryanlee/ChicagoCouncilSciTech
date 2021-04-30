@@ -71,7 +71,7 @@ The goal of the final project is for you to showcase what you’ve learned in 50
 
 The final Database Schema ended up as a hierarchcial database model rather than a relational model. 
 
-![actual database schema](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/6845f1d91b7be4bc816ea57ef35759969c9262d3/assets/SI507images/webscrape_actual_erd.png)
+![actual database schema](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/4f891d69ea69d66c9ade1239d6251563903e4a92/assets/SI507images/actual_webscrape_erd.png)
 
 # Exploratory Data Analysis
 
