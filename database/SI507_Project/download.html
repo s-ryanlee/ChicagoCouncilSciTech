@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <h1 align='center'> C2ST Events </h1>
+    </head>
+    <body>
+        <h2> Download C2ST Event Data Files </h2>
+        <div class="container" align="left">
+            <a href="/return-files-events/" target="blank">
+                <button class='btn btn-default'> Download Events Table </button>
+            </a>
+        </div>
+        <div class="container" align="left">
+            <a href="/return-files-guests/" target="blank">
+                <button class='btn btn-default'> Download Event Guests Table </button>
+            </a>
+        </div>
+        <h2> Upcoming Events - Today is {{todays_date}}</h2>
+        <p>
+            <ol>
+                {% for key,value in upcoming_events.items() %}
+                    <li>
+                        <a href={{value}}> {{key}}</a>
+                    </li>
+                {% endfor %}
+            </ol>
+            <h3>Additional Event Details</h3>
+            {% for table in tables1 %}
+                {{titles1[loop.index]}}
+                {{ table|safe }}
+            {% endfor %}
+        </p>
+        <h1> Exploratory Data Analysis </h1>
+
+        <h2> Event Occuring on Each Day of the Week </h2>
+        <img src="{{ url_for('show_day_countplot') }}">
+        <p>
+            <strong> Day of the Week Categories</strong>
+            <ol>
+                <li>Monday</li>
+                <li>Tuesday</li>
+                <li>Wednesday</li>
+                <li>Thursday</li>
+                <li>Friday</li>
+                <li>Saturday</li>
+                <li>Sunday</li>
+            </ol>
+        </p>
+        <h2> Total Number of Events (By Series) for Each Day of the Week  </h2>
+            <img src="{{ url_for('show_dow_countplot') }}">
+            <p>
+                <strong> Program Series Categories</strong>
+                <ul>
+                    {% for series in program_series %}
+                    <li>
+                            {{series}}
+                    </li>
+                    {% endfor %}
+                </ul>
+                Total events by day of week, subcategorized by program series show the greatest number of events occurring in the middle of the week on Tuesdays, Wednesdays, and Thursdays. 
+                Science and Society and Climate, Energy, and Environment series events are more common on Wednesdays and Thursdays, while Life Science and Health and Wellness series events are more common on Tuesdays.
+            </p>
+
+        <h2>
+            Feature Category Bar Plots and t-SNE (dimension reduction) scatterplot
+        </h2>
+            <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/dd0a139f-0b16-4fb7-9100-87859bb81fb3" id="LZ_xevTb-fwq"></iframe></div>
+                <p>Dimension reduction (t-SNE) was performed to look at potential underlying groups across these different features. Potential clusters are more discernible as perplexity increases. 
+                    Exploratory analysis provides evidence that cluster analysis and potentially classification could be beneficial, especially on a much larger dataset. 
+                </p>
+
+    </body>
+</html>
