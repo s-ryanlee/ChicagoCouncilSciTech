@@ -31,6 +31,9 @@ The goal of the final project is for you to showcase what you’ve learned in 50
     - Downloadable Data Files
         - complete list of C2ST Events
         - complete list of C2ST Event Speakers 
+    - Navigable Upcoming Events Listing
+    - Additional Event Details table
+    - Exploratory Data Analysis Visualizations
 
 ![Display Example](https://github.com/s-ryanlee/ChicagoCouncilSciTech/blob/110432c4fdfcf4233bac183c5933a1d6cf24265d/assets/SI507images/c2st_flask_display1.PNG)
 
