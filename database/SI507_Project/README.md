@@ -47,7 +47,7 @@ The goal of the final project is for you to showcase what you’ve learned in 50
 
 ### 2. update_c2st_events_app.exe
 
-- executable python script of web scraping and functions
+- executable python script of web scraping and cache functions
 - outputs 3 files
     - all_events.csv
     - all_event_guests.csv
